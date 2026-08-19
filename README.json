@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "在当下技术生态中，Java、Python、Android、Golang 等技术的学习资料、实战心得、面试攻略随处可得。反观 C#/.NET 生态，优质学习资料、实战经验、面试指南都比较零散、碎片化，很难系统性一站式查阅。经常在 QQ 技术群、微信技术群、知乎等平台看到大家提问：有没有靠谱的 C#/.NET 学习书籍、视频教程、实战项目、主流项目框架和高频面试题推荐？ 其实并不是没人分享，而是因为网上内容太分散、缺少一个系统化汇总的知识库，新手入门、老手进阶都要到处找资料，白白浪费大量时间。作为一名 .NET 开发者，我也不想一直看着这种现状持续下去。创建 DotNetGuide 知识库的初衷，就是为了整理、收录、沉淀全网优质 C#/.NET/.NET Core 学习资源：包含完整学习路线、精品视频教程、优质文章、经典书籍、开源项目、主流框架、开发实战案例、编程技巧、必备工具、技术周刊、行业动态、高频面试题、面试经验、简历模板、行业招聘，以及个人学习与工作中的实战心得。旨在帮助那些想要入门 .NET 或者正在从事 .NET 开发的同学，少走弯路、高效成长。一个人的力量终究有限，由衷欢迎大家在 Issues 投稿，或直接提交 PR，一起共建、完善这份 C#/.NET/.NET Core 学习、工作、面试一站式指南知识库🤞。",
-      "items": [],
-      "title": "📚DotNetGuide简介"
-    },
-    {
-      "description": "🙌知识库中有总结不足的地方，欢迎各位大佬给我提意见(💖留下您宝贵的建议)。 如果DotNetGuide知识库对大家有帮助的话记得给作者一个星星哟⭐(您的小星星就是对我最大的肯定和鼓励)！\n",
-      "items": [],
-      "title": "🎉Issues宝藏存库"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -62,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -76,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -90,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -104,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -118,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -132,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -146,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -160,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -174,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -188,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -202,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -216,11 +220,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -230,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -244,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -258,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -272,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -286,11 +295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -300,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -314,11 +325,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -328,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -342,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -356,11 +370,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -370,11 +385,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -384,11 +400,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -398,11 +415,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -412,11 +430,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -426,11 +445,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -440,11 +460,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -454,11 +475,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -468,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -482,18 +505,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         }
       ],
       "title": "🔍目录导航(善用Ctrl+F)"
     },
     {
-      "description": "",
+      "description": "🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -502,11 +526,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169371413,
             "language": null,
             "last_commit": "2026-01-29T14:44:09Z",
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19632
+            "stars": 19633
           }
         },
         {
@@ -516,11 +541,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75990888,
             "language": "C#",
-            "last_commit": "2026-08-18T15:47:32Z",
+            "last_commit": "2026-08-18T21:43:58Z",
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12682
+            "stars": 12686
           }
         },
         {
@@ -530,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -544,11 +571,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -558,49 +586,47 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         }
       ],
       "title": "🏷️优质学习资料收录栈"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub漫游指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31904268,
+                "language": "Rich Text Format",
+                "last_commit": "2024-08-24T12:54:17Z",
+                "owner": "phodal",
+                "repo": "github",
+                "stars": 11146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub使用指南"
+        }
+      ],
       "title": "🏹编程效率提升技巧集"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub漫游指南",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rich Text Format",
-            "last_commit": "2024-08-24T12:54:17Z",
-            "owner": "phodal",
-            "repo": "github",
-            "stars": 11145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C# GitHub趋势榜",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "GitHub使用指南"
-    },
-    {
-      "description": "在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器。",
+      "description": "在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器。\n🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -609,11 +635,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789432561,
             "language": null,
             "last_commit": "2026-08-15T15:57:23Z",
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -623,225 +650,242 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789432561,
             "language": null,
             "last_commit": "2026-08-15T15:57:23Z",
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
-            "stars": 1163
+            "stars": 1164
           }
         }
       ],
       "title": "⚒️程序员常用的工具软件"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome .NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21894635,
+                "language": null,
+                "last_commit": "2026-03-26T05:16:53Z",
+                "owner": "quozd",
+                "repo": "awesome-dotnet",
+                "stars": 21562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome .NET Core",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54086969,
+                "language": "C#",
+                "last_commit": "2026-02-27T03:26:22Z",
+                "owner": "thangchung",
+                "repo": "awesome-dotnet-core",
+                "stars": 21363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Blazor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127247098,
+                "language": null,
+                "last_commit": "2026-07-25T11:20:31Z",
+                "owner": "AdrienTorris",
+                "repo": "awesome-blazor",
+                "stars": 9369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome .NET Performance",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67636344,
+                "language": null,
+                "last_commit": "2026-04-27T19:50:40Z",
+                "owner": "adamsitnik",
+                "repo": "awesome-dot-net-performance",
+                "stars": 3276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Avalonia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237631278,
+                "language": null,
+                "last_commit": "2026-04-24T12:42:27Z",
+                "owner": "AvaloniaCommunity",
+                "repo": "awesome-avalonia",
+                "stars": 3220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Microservices .NET",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257171786,
+                "language": null,
+                "last_commit": "2024-10-31T18:26:36Z",
+                "owner": "mjebrahimi",
+                "repo": "Awesome-Microservices-DotNet",
+                "stars": 3073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Unity3D",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78371780,
+                "language": null,
+                "last_commit": "2026-08-13T04:30:32Z",
+                "owner": "insthync",
+                "repo": "awesome-unity3d",
+                "stars": 2724
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome .NET MAUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356544156,
+                "language": null,
+                "last_commit": "2025-10-20T17:16:01Z",
+                "owner": "jsuarezruiz",
+                "repo": "awesome-dotnet-maui",
+                "stars": 2661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome .NET WPF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242047089,
+                "language": "C#",
+                "last_commit": "2026-08-02T13:02:54Z",
+                "owner": "Carlos487",
+                "repo": "awesome-wpf",
+                "stars": 2161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome MonoGame",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66775029,
+                "language": null,
+                "last_commit": "2025-08-18T12:19:54Z",
+                "owner": "aloisdeniel",
+                "repo": "awesome-monogame",
+                "stars": 1447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Abp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264683299,
+                "language": null,
+                "last_commit": "2026-02-19T08:47:07Z",
+                "owner": "EasyAbp",
+                "repo": "awesome-abp",
+                "stars": 459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Nuget Packages",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326010934,
+                "language": null,
+                "last_commit": "2025-01-26T23:01:01Z",
+                "owner": "mjebrahimi",
+                "repo": "Awesome-Nuget-Packages",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Unity Tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421656059,
+                "language": "C#",
+                "last_commit": "2025-09-25T09:40:30Z",
+                "owner": "chutianshu1981",
+                "repo": "AwesomeUnityTutorial",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome .NET WinForms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478442798,
+                "language": null,
+                "last_commit": "2026-06-09T12:33:35Z",
+                "owner": "tbolon",
+                "repo": "awesome-dotnet-winforms",
+                "stars": 151
+              }
+            }
+          ],
+          "description": "🔝返回目录",
+          "node_type": "group",
+          "title": "Awesome Collection"
+        }
+      ],
       "title": "🔋C#/.NET/.NET Core充电站"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome .NET",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-26T05:16:53Z",
-            "owner": "quozd",
-            "repo": "awesome-dotnet",
-            "stars": 21561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome .NET Core",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-27T03:26:22Z",
-            "owner": "thangchung",
-            "repo": "awesome-dotnet-core",
-            "stars": 21364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Blazor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-25T11:20:31Z",
-            "owner": "AdrienTorris",
-            "repo": "awesome-blazor",
-            "stars": 9368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome .NET Performance",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-27T19:50:40Z",
-            "owner": "adamsitnik",
-            "repo": "awesome-dot-net-performance",
-            "stars": 3275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Avalonia",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-24T12:42:27Z",
-            "owner": "AvaloniaCommunity",
-            "repo": "awesome-avalonia",
-            "stars": 3219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Microservices .NET",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-31T18:26:36Z",
-            "owner": "mjebrahimi",
-            "repo": "Awesome-Microservices-DotNet",
-            "stars": 3073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Unity3D",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-13T04:30:32Z",
-            "owner": "insthync",
-            "repo": "awesome-unity3d",
-            "stars": 2723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome .NET MAUI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-10-20T17:16:01Z",
-            "owner": "jsuarezruiz",
-            "repo": "awesome-dotnet-maui",
-            "stars": 2661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome .NET WPF",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-02T13:02:54Z",
-            "owner": "Carlos487",
-            "repo": "awesome-wpf",
-            "stars": 2159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome MonoGame",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-18T12:19:54Z",
-            "owner": "aloisdeniel",
-            "repo": "awesome-monogame",
-            "stars": 1447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Abp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-19T08:47:07Z",
-            "owner": "EasyAbp",
-            "repo": "awesome-abp",
-            "stars": 459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Nuget Packages",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-26T23:01:01Z",
-            "owner": "mjebrahimi",
-            "repo": "Awesome-Nuget-Packages",
-            "stars": 325
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Unity Tutorial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-09-25T09:40:30Z",
-            "owner": "chutianshu1981",
-            "repo": "AwesomeUnityTutorial",
-            "stars": 276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome .NET WinForms",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-09T12:33:35Z",
-            "owner": "tbolon",
-            "repo": "awesome-dotnet-winforms",
-            "stars": 151
-          }
-        }
-      ],
-      "title": "Awesome Collection"
-    },
-    {
-      "description": "在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。",
+      "description": "在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。\n🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -850,11 +894,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -864,28 +909,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         }
       ],
       "title": "🚀C#/.NET/.NET Core拾遗补漏"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "🥇C#/.NET/.NET Core开发实战教程"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ".NET 9操作SQLite入门到实战详细教程"
-    },
-    {
-      "description": "古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。",
+      "description": "古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。\n🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -894,11 +930,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -908,28 +945,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         }
       ],
       "title": "📚C#/.NET/.NET Core推荐学习书籍"
     },
     {
-      "description": "精选 C#、.NET、.NET Core、Blazor、WPF、WinForm、Avalonia 等核心技术优质学习视频大全，助力 .NET 开发者高效入门与进阶，内容将持续更新同时也欢迎大家一起来完善和贡献自己觉得不错的 C#/.NET/.NET Core 学习视频资源！！！\n\n🔝返回目录",
-      "items": [],
-      "title": "📺C#/.NET/.NET Core学习视频大全"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏗️C#/.NET/.NET Core优秀项目框架"
-    },
-    {
-      "description": "C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追踪C#/.NET/.NET Core领域、生态的每周最新、最实用、最有价值的技术文章、社区动态、优质项目和学习资源等。让你时刻站在技术前沿，助力技术成长与视野拓宽。",
+      "description": "C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追踪C#/.NET/.NET Core领域、生态的每周最新、最实用、最有价值的技术文章、社区动态、优质项目和学习资源等。让你时刻站在技术前沿，助力技术成长与视野拓宽。\n欢迎投稿、推荐或自荐优质文章、项目、学习资源等。\n🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -938,11 +966,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -952,11 +981,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         }
       ],
@@ -972,11 +1002,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -986,585 +1017,610 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282507117,
             "language": "C#",
             "last_commit": "2026-02-10T16:45:27Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetExercises",
             "stars": 456
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "7、MultithreadingExample",
+              "description": "：C#实现多线程的几种方式",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302375024,
+                "language": "C#",
+                "last_commit": "2026-06-28T01:17:33Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetGuide",
+                "stars": 10816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8、AsyncProgrammingExample",
+              "description": "：.NET实现异步的几种方式",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302375024,
+                "language": "C#",
+                "last_commit": "2026-06-28T01:17:33Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetGuide",
+                "stars": 10816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "19、CSharp12GrammarExercise",
+              "description": "：C# 12 新增功能实操",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302375024,
+                "language": "C#",
+                "last_commit": "2026-06-28T01:17:33Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetGuide",
+                "stars": 10816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "1、QuestPDFExercise",
+              "description": "：.NET使用QuestPDF高效地生成PDF文档",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2、TimeCrontabExercise",
+              "description": "：.NET 全能 Cron 表达式解析库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3、BouncyCastleExercise",
+              "description": "：C#版开源免费的Bouncy Castle密码库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4、ScottPlotWinFormsExercise",
+              "description": "：使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5、ChartjsExercise",
+              "description": "：在Blazor中使用Chart.js快速创建图表",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "6、GenericRepositoryExercise",
+              "description": "：一个库帮你快速实现EF Core数据仓储模式",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "9、DotnetSpiderExercise",
+              "description": "：.NET快速实现网页数据抓取",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "10、MapsuiExercise",
+              "description": "：一个 .NET 开源的地图组件库 - Mapsui",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "11、SpectreExercise",
+              "description": "：一个库帮你轻松的创建漂亮的.NET控制台应用程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "12、IdGeneratorExercise",
+              "description": "：.NET集成IdGenerator生成分布式全局唯一ID",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "13、FusionCacheExercise",
+              "description": "：.NET开源强大、易于使用的缓存框架 - FusionCache",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "14、AutoMapperExercise",
+              "description": "：ASP.NET Core Web中使用AutoMapper进行对象映射",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "15、CsvHelperExercise",
+              "description": "：.NET使用CsvHelper快速读取和写入CSV文件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "16、FileCompDecompExercise",
+              "description": "：.NET使用原生方法实现文件压缩和解压",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "17、TerminalGuiExercise",
+              "description": "：使用Terminal.Gui构建功能强大的.NET控制台应用",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "18、MLNETExercise",
+              "description": "：使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282507117,
+                "language": "C#",
+                "last_commit": "2026-02-10T16:45:27Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetExercises",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "20、FFmpegAudioAndVideoMerge",
+              "description": "：C#进程调用FFmpeg操作音视频",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445879799,
+                "language": "C#",
+                "last_commit": "2024-06-06T18:08:47Z",
+                "owner": "YSGStudyHards",
+                "repo": "FFmpegAudioAndVideoMerge",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "🔝返回目录",
+          "node_type": "group",
+          "title": "文章详细教程"
         }
       ],
       "title": "⚔C#/.NET/.NET Core编程技巧练习集"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "7、MultithreadingExample",
-          "description": "：C#实现多线程的几种方式",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 10808
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "前端3+1面试题库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181807583,
+                "language": "JavaScript",
+                "last_commit": "2025-10-26T20:49:10Z",
+                "owner": "haizlin",
+                "repo": "fe-interview",
+                "stars": 26262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "宇宙最强的前端面试指南",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196552074,
+                "language": "JavaScript",
+                "last_commit": "2023-09-18T17:04:14Z",
+                "owner": "azl397985856",
+                "repo": "fe-interview",
+                "stars": 2840
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web前端面试宝典和常见面试题"
         },
         {
-          "node_type": "item",
-          "title": "8、AsyncProgrammingExample",
-          "description": "：.NET实现异步的几种方式",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 10808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "19、CSharp12GrammarExercise",
-          "description": "：C# 12 新增功能实操",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 10808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "1、QuestPDFExercise",
-          "description": "：.NET使用QuestPDF高效地生成PDF文档",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2、TimeCrontabExercise",
-          "description": "：.NET 全能 Cron 表达式解析库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "3、BouncyCastleExercise",
-          "description": "：C#版开源免费的Bouncy Castle密码库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "4、ScottPlotWinFormsExercise",
-          "description": "：使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "5、ChartjsExercise",
-          "description": "：在Blazor中使用Chart.js快速创建图表",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "6、GenericRepositoryExercise",
-          "description": "：一个库帮你快速实现EF Core数据仓储模式",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "9、DotnetSpiderExercise",
-          "description": "：.NET快速实现网页数据抓取",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "10、MapsuiExercise",
-          "description": "：一个 .NET 开源的地图组件库 - Mapsui",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "11、SpectreExercise",
-          "description": "：一个库帮你轻松的创建漂亮的.NET控制台应用程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "12、IdGeneratorExercise",
-          "description": "：.NET集成IdGenerator生成分布式全局唯一ID",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "13、FusionCacheExercise",
-          "description": "：.NET开源强大、易于使用的缓存框架 - FusionCache",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "14、AutoMapperExercise",
-          "description": "：ASP.NET Core Web中使用AutoMapper进行对象映射",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "15、CsvHelperExercise",
-          "description": "：.NET使用CsvHelper快速读取和写入CSV文件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "16、FileCompDecompExercise",
-          "description": "：.NET使用原生方法实现文件压缩和解压",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "17、TerminalGuiExercise",
-          "description": "：使用Terminal.Gui构建功能强大的.NET控制台应用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "18、MLNETExercise",
-          "description": "：使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-10T16:45:27Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetExercises",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "20、FFmpegAudioAndVideoMerge",
-          "description": "：C#进程调用FFmpeg操作音视频",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-06-06T18:08:47Z",
-            "owner": "YSGStudyHards",
-            "repo": "FFmpegAudioAndVideoMerge",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "适合后端程序员的前端框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302375024,
+                "language": "C#",
+                "last_commit": "2026-06-28T01:17:33Z",
+                "owner": "YSGStudyHards",
+                "repo": "DotNetGuide",
+                "stars": 10816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub最全的前端资源汇总仓库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307106512,
+                "language": null,
+                "last_commit": "2025-01-08T15:09:11Z",
+                "owner": "FrontEndGitHub",
+                "repo": "FrontEndGitHub",
+                "stars": 6594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "一个优秀的前端都应该阅读这些文章",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124822473,
+                "language": "JavaScript",
+                "last_commit": "2024-05-07T02:58:03Z",
+                "owner": "Nealyang",
+                "repo": "PersonalBlog",
+                "stars": 1113
+              }
+            }
+          ],
+          "description": "🔝返回目录",
+          "node_type": "group",
+          "title": "Web前端优质资源和文章汇总"
         }
       ],
-      "title": "文章详细教程"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🌍Web前端开发指南"
     },
     {
-      "description": "",
+      "description": "设计模式（Design Pattern） 是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结，使用设计模式是为了可重用代码、让代码更容易被他人理解并且保证代码可靠性。 面向对象结合设计模式，才能真正体会到程序变得可维护、可复用、可扩展、灵活性好。设计模式对于程序员而言并不陌生，每个程序员在编程时都会或多或少地接触到设计模式。无论是在大型程序的架构中，亦或是在源码的学习中，设计模式都扮演着非常重要的角色。",
       "items": [
         {
-          "node_type": "item",
-          "title": "前端3+1面试题库",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "图说设计模式",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24713653,
+                "language": "C++",
+                "last_commit": "2024-06-05T03:27:51Z",
+                "owner": "me115",
+                "repo": "design_patterns",
+                "stars": 7123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#常见的23种设计模式（含源码）圣杰",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71625921,
+                "language": "C#",
+                "last_commit": "2023-03-03T08:45:36Z",
+                "owner": "sheng-jie",
+                "repo": "Design-Pattern",
+                "stars": 1110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "23种面向对象设计模式示例代码（C#实现）Edison Zhou",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103289230,
+                "language": "C#",
+                "last_commit": "2020-06-16T12:33:35Z",
+                "owner": "EdisonTalk",
+                "repo": "DesignPattern.Samples.CSharp",
+                "stars": 422
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-26T20:49:10Z",
-            "owner": "haizlin",
-            "repo": "fe-interview",
-            "stars": 26256
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "宇宙最强的前端面试指南",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-18T17:04:14Z",
-            "owner": "azl397985856",
-            "repo": "fe-interview",
-            "stars": 2840
-          }
+          "node_type": "group",
+          "title": "设计模式推荐学习教程"
         }
       ],
-      "title": "Web前端面试宝典和常见面试题"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "适合后端程序员的前端框架",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 10808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub最全的前端资源汇总仓库",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-08T15:09:11Z",
-            "owner": "FrontEndGitHub",
-            "repo": "FrontEndGitHub",
-            "stars": 6593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "一个优秀的前端都应该阅读这些文章",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-07T02:58:03Z",
-            "owner": "Nealyang",
-            "repo": "PersonalBlog",
-            "stars": 1113
-          }
-        }
-      ],
-      "title": "Web前端优质资源和文章汇总"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🤖AIGC&AI赋能"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🧱设计模式"
     },
     {
-      "description": "",
+      "description": "关系型数据库（SQL）库指的是使用关系模型（二维表格模型）来组织数据的数据库，是一种使用结构化查询语言（Structured Query Language，简称SQL）进行数据管理和操作的数据库类型。它采用表格的形式来组织和存储数据，通过定义表之间的关系来建立数据之间的联系。",
       "items": [
         {
-          "node_type": "item",
-          "title": "图说设计模式",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MySQL图解教程",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471887218,
+                "language": null,
+                "last_commit": "2024-11-27T06:32:13Z",
+                "owner": "xiaolincoder",
+                "repo": "CS-Base",
+                "stars": 18273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySQL源代码",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24494032,
+                "language": "C++",
+                "last_commit": "2026-07-31T15:43:43Z",
+                "owner": "mysql",
+                "repo": "mysql-server",
+                "stars": 12383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MySQL入门教程（MySQL tutorial book）",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69094690,
+                "language": null,
+                "last_commit": "2026-04-23T02:28:03Z",
+                "owner": "jaywcjlove",
+                "repo": "mysql-tutorial",
+                "stars": 4740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome MySQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32276625,
+                "language": "Python",
+                "last_commit": "2026-08-17T12:26:05Z",
+                "owner": "shlomi-noach",
+                "repo": "awesome-mysql",
+                "stars": 2607
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-06-05T03:27:51Z",
-            "owner": "me115",
-            "repo": "design_patterns",
-            "stars": 7122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#常见的23种设计模式（含源码）圣杰",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-03-03T08:45:36Z",
-            "owner": "sheng-jie",
-            "repo": "Design-Pattern",
-            "stars": 1110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "23种面向对象设计模式示例代码（C#实现）Edison Zhou",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2020-06-16T12:33:35Z",
-            "owner": "EdisonTalk",
-            "repo": "DesignPattern.Samples.CSharp",
-            "stars": 422
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "design pattern 包教不包会",
-          "description": null,
-          "children": []
+          "node_type": "group",
+          "title": "MySQL"
         }
       ],
-      "title": "设计模式推荐学习教程"
-    },
-    {
-      "description": "🔝返回目录",
-      "items": [],
-      "title": "经典的23种设计模式"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧮逻辑算法"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🍇关系型数据库（SQL）"
     },
     {
-      "description": "",
+      "description": "非关系型数据库又被称为 NoSQL（Not Only SQL )，意为不仅仅是 SQL。指的是与传统关系型数据库（RDBMS）相对应的一类数据库管理系统。与关系型数据库不同的是非关系型数据库不使用传统的表格和行列结构来存储数据，而是采用更灵活的数据模型，例如键值对、文档、列族、图形等形式。",
       "items": [
         {
-          "node_type": "item",
-          "title": "MySQL图解教程",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "带有详细注释的 Redis 3.0 代码",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21294600,
+                "language": "C",
+                "last_commit": "2023-08-26T12:09:20Z",
+                "owner": "huangzworks",
+                "repo": "redis-3.0-annotated",
+                "stars": 10154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "带有详细注释的 Redis 2.6 代码",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8574898,
+                "language": "C",
+                "last_commit": "2020-01-01T10:05:33Z",
+                "owner": "huangzworks",
+                "repo": "annotated_redis_source",
+                "stars": 2318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redis图解",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675215370,
+                "language": null,
+                "last_commit": "2023-07-26T11:57:48Z",
+                "owner": "MyBigKnowledgeBase",
+                "repo": "CS-Base",
+                "stars": 2
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-11-27T06:32:13Z",
-            "owner": "xiaolincoder",
-            "repo": "CS-Base",
-            "stars": 18273
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MySQL源代码",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-31T15:43:43Z",
-            "owner": "mysql",
-            "repo": "mysql-server",
-            "stars": 12382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MySQL入门教程（MySQL tutorial book）",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-23T02:28:03Z",
-            "owner": "jaywcjlove",
-            "repo": "mysql-tutorial",
-            "stars": 4739
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome MySQL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T12:26:05Z",
-            "owner": "shlomi-noach",
-            "repo": "awesome-mysql",
-            "stars": 2608
-          }
+          "node_type": "group",
+          "title": "Redis"
         }
       ],
-      "title": "MySQL"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🍉非关系型数据库（NoSQL）"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "带有详细注释的 Redis 3.0 代码",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-08-26T12:09:20Z",
-            "owner": "huangzworks",
-            "repo": "redis-3.0-annotated",
-            "stars": 10155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "带有详细注释的 Redis 2.6 代码",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-01-01T10:05:33Z",
-            "owner": "huangzworks",
-            "repo": "annotated_redis_source",
-            "stars": 2318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Redis图解",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-07-26T11:57:48Z",
-            "owner": "MyBigKnowledgeBase",
-            "repo": "CS-Base",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Redis"
-    },
-    {
-      "description": "",
+      "description": "🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -1573,11 +1629,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83222441,
             "language": "Python",
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364616
+            "stars": 364830
           }
         },
         {
@@ -1587,11 +1644,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693342566,
             "language": null,
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87284
+            "stars": 87319
           }
         },
         {
@@ -1601,11 +1659,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148736243,
             "language": "Java",
             "last_commit": "2025-04-18T06:23:43Z",
             "owner": "qiurunze123",
             "repo": "miaosha",
-            "stars": 26593
+            "stars": 26591
           }
         },
         {
@@ -1615,11 +1674,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100061216,
             "language": null,
             "last_commit": "2019-07-18T15:46:58Z",
             "owner": "DocsHome",
             "repo": "microservices",
-            "stars": 5169
+            "stars": 5170
           }
         },
         {
@@ -1629,18 +1689,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131278731,
             "language": "Java",
             "last_commit": "2020-06-20T04:55:25Z",
             "owner": "zaiyunduan123",
             "repo": "Java-Summarize",
-            "stars": 1385
+            "stars": 1386
           }
         }
       ],
       "title": "💡系统设计"
     },
     {
-      "description": "",
+      "description": "🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -1649,11 +1710,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121395510,
             "language": null,
             "last_commit": "2024-08-21T09:40:10Z",
             "owner": "CyC2018",
             "repo": "CS-Notes",
-            "stars": 185430
+            "stars": 185483
           }
         },
         {
@@ -1663,11 +1725,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302375024,
             "language": "C#",
             "last_commit": "2026-06-28T01:17:33Z",
             "owner": "YSGStudyHards",
             "repo": "DotNetGuide",
-            "stars": 10808
+            "stars": 10816
           }
         },
         {
@@ -1677,6 +1740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 675215370,
             "language": null,
             "last_commit": "2023-07-26T11:57:48Z",
             "owner": "MyBigKnowledgeBase",
@@ -1688,56 +1752,50 @@
       "title": "💻操作系统"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "☁️容器技术"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧰DevOps、CI&CD自动化工具"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gitignore templates",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062897,
+                "language": null,
+                "last_commit": "2026-07-23T16:06:45Z",
+                "owner": "github",
+                "repo": "gitignore",
+                "stars": 175375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git的奇技淫巧",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63418718,
+                "language": null,
+                "last_commit": "2022-12-08T03:13:00Z",
+                "owner": "521xueweihan",
+                "repo": "git-tips",
+                "stars": 15850
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git"
+        }
+      ],
       "title": "🧲版本控制工具"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gitignore templates",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-23T16:06:45Z",
-            "owner": "github",
-            "repo": "gitignore",
-            "stars": 175359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Git的奇技淫巧",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-08T03:13:00Z",
-            "owner": "521xueweihan",
-            "repo": "git-tips",
-            "stars": 15850
-          }
-        }
-      ],
-      "title": "Git"
-    },
-    {
-      "description": "",
+      "description": "🔝返回目录",
       "items": [
         {
           "node_type": "item",
@@ -1746,11 +1804,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180552269,
             "language": null,
             "last_commit": "2020-12-01T13:01:36Z",
             "owner": "CodingDocs",
             "repo": "advanced-programmer",
-            "stars": 2773
+            "stars": 2769
           }
         },
         {
@@ -1760,11 +1819,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101263369,
             "language": null,
             "last_commit": "2024-02-07T11:37:51Z",
             "owner": "lietoumai",
             "repo": "Awesome-offer",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -1774,6 +1834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 668991054,
             "language": null,
             "last_commit": "2022-12-24T15:30:40Z",
             "owner": "StartInterview",
@@ -1786,11 +1847,6 @@
     },
     {
       "description": "🔝返回目录",
-      "items": [],
-      "title": "👩‍💻简历模板"
-    },
-    {
-      "description": "",
       "items": [
         {
           "node_type": "item",
@@ -1799,11 +1855,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 419347358,
             "language": "HTML",
             "last_commit": "2026-08-13T14:21:23Z",
             "owner": "PKUFlyingPig",
             "repo": "cs-self-learning",
-            "stars": 75022
+            "stars": 75035
           }
         },
         {
@@ -1813,11 +1870,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82040650,
             "language": "JavaScript",
             "last_commit": "2025-12-29T00:34:55Z",
             "owner": "shimohq",
             "repo": "chinese-programmer-wrong-pronunciation",
-            "stars": 23261
+            "stars": 23264
           }
         },
         {
@@ -1827,11 +1885,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192147515,
             "language": null,
             "last_commit": "2026-07-25T07:08:36Z",
             "owner": "fangzesheng",
             "repo": "free-api",
-            "stars": 16202
+            "stars": 16203
           }
         },
         {
@@ -1841,6 +1900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59535595,
             "language": null,
             "last_commit": "2021-08-26T16:09:38Z",
             "owner": "jobbole",
@@ -1855,6 +1915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198739119,
             "language": null,
             "last_commit": "2021-01-06T01:10:26Z",
             "owner": "toutiaoio",
@@ -1869,11 +1930,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 937281028,
             "language": null,
             "last_commit": "2026-08-03T16:00:59Z",
             "owner": "knowledgefxg",
             "repo": "learning-english",
-            "stars": 3925
+            "stars": 3930
           }
         },
         {
@@ -1883,6 +1945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 335896927,
             "language": "HTML",
             "last_commit": "2026-03-23T04:26:34Z",
             "owner": "liyupi",
@@ -1897,6 +1960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412202401,
             "language": "HTML",
             "last_commit": "2023-10-22T08:55:31Z",
             "owner": "YSGStudyHards",
@@ -1911,6 +1975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321694605,
             "language": null,
             "last_commit": "2020-11-27T03:40:07Z",
             "owner": "YSGStudyHards",
@@ -1925,6 +1990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174829033,
             "language": null,
             "last_commit": "2023-09-17T08:10:43Z",
             "owner": "YSGStudyHards",
@@ -1939,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 485242407,
             "language": null,
             "last_commit": "2021-12-30T01:39:23Z",
             "owner": "MyBigKnowledgeBase",
@@ -1953,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418174415,
             "language": null,
             "last_commit": "2021-10-10T08:45:23Z",
             "owner": "MyBigKnowledgeBase",
@@ -1965,8 +2033,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:58:32.615Z",
+    "last_updated": "2026-08-19T12:14:24.958Z",
     "original_repository": "YSGStudyHards/DotNetGuide",
+    "original_repository_id": 302375024,
     "original_repository_sha": "4c67be660184c4e94a9ec8897d49acdd65871cec",
     "enhanced_repository": "enhansome/enhansome-DotNetGuide",
     "enhanced_repository_description": null,
