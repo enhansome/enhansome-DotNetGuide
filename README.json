@@ -693,7 +693,7 @@
                 "last_commit": "2026-02-27T03:26:22Z",
                 "owner": "thangchung",
                 "repo": "awesome-dotnet-core",
-                "stars": 21363
+                "stars": 21364
               }
             },
             {
@@ -873,7 +873,7 @@
                 "last_commit": "2026-06-09T12:33:35Z",
                 "owner": "tbolon",
                 "repo": "awesome-dotnet-winforms",
-                "stars": 151
+                "stars": 150
               }
             }
           ],
@@ -1477,7 +1477,7 @@
                 "last_commit": "2020-06-16T12:33:35Z",
                 "owner": "EdisonTalk",
                 "repo": "DesignPattern.Samples.CSharp",
-                "stars": 422
+                "stars": 423
               }
             }
           ],
@@ -1505,7 +1505,7 @@
                 "last_commit": "2024-11-27T06:32:13Z",
                 "owner": "xiaolincoder",
                 "repo": "CS-Base",
-                "stars": 18273
+                "stars": 18274
               }
             },
             {
@@ -1535,7 +1535,7 @@
                 "last_commit": "2026-04-23T02:28:03Z",
                 "owner": "jaywcjlove",
                 "repo": "mysql-tutorial",
-                "stars": 4740
+                "stars": 4741
               }
             },
             {
@@ -1634,7 +1634,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364830
+            "stars": 364868
           }
         },
         {
@@ -1649,7 +1649,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87319
+            "stars": 87325
           }
         },
         {
@@ -1715,7 +1715,7 @@
             "last_commit": "2024-08-21T09:40:10Z",
             "owner": "CyC2018",
             "repo": "CS-Notes",
-            "stars": 185483
+            "stars": 185495
           }
         },
         {
@@ -1768,7 +1768,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175375
+                "stars": 175376
               }
             },
             {
@@ -1860,7 +1860,7 @@
             "last_commit": "2026-08-13T14:21:23Z",
             "owner": "PKUFlyingPig",
             "repo": "cs-self-learning",
-            "stars": 75035
+            "stars": 75044
           }
         },
         {
@@ -1875,7 +1875,7 @@
             "last_commit": "2025-12-29T00:34:55Z",
             "owner": "shimohq",
             "repo": "chinese-programmer-wrong-pronunciation",
-            "stars": 23264
+            "stars": 23265
           }
         },
         {
@@ -1935,7 +1935,7 @@
             "last_commit": "2026-08-03T16:00:59Z",
             "owner": "knowledgefxg",
             "repo": "learning-english",
-            "stars": 3930
+            "stars": 3933
           }
         },
         {
@@ -2033,7 +2033,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:14:24.958Z",
+    "last_updated": "2026-08-19T15:58:43.462Z",
     "original_repository": "YSGStudyHards/DotNetGuide",
     "original_repository_id": 302375024,
     "original_repository_sha": "4c67be660184c4e94a9ec8897d49acdd65871cec",
