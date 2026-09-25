@@ -72,7 +72,7 @@
 ## 🏷️优质学习资料收录栈
 
 * [🎯2025年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master) ⭐ 19,647 | 🐛 3 | 📅 2026-01-29
-* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang) ⭐ 12,711 | 🐛 289 | 🌐 C# | 📅 2026-09-18
+* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang) ⭐ 12,712 | 🐛 290 | 🌐 C# | 📅 2026-09-18
 * [🚤适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
 * [🐮C#/.NET/.NET Core推荐博客&博主&公众号](https://github.com/YSGStudyHards/DotNetGuide/issues/8) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
 * [⛵C#/.NET/.NET Core推荐学习路线&文档&文章](https://github.com/YSGStudyHards/DotNetGuide/issues/10) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
@@ -103,7 +103,7 @@
 
 ### AI实用编程工具
 
-* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,013 | 🐛 976 | 🌐 TypeScript | 📅 2026-09-24
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,027 | 🐛 975 | 🌐 TypeScript | 📅 2026-09-24
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
@@ -178,7 +178,7 @@
 
 ### GitHub使用指南
 
-* [GitHub漫游指南](https://github.com/phodal/github) ⭐ 11,223 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24
+* [GitHub漫游指南](https://github.com/phodal/github) ⭐ 11,222 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub官方使用文档](https://docs.github.com/zh)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
@@ -208,8 +208,8 @@
 
 在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 
-* **欢迎PR或Issues投稿：** <https://github.com/YSGStudyHards/Awesome-Tools/issues> ⭐ 1,186 | 🐛 14 | 📅 2026-09-24
-* **Awesome Tools，程序员常用高效实用工具、软件资源精选：** <https://github.com/YSGStudyHards/Awesome-Tools> ⭐ 1,186 | 🐛 14 | 📅 2026-09-24
+* **欢迎PR或Issues投稿：** <https://github.com/YSGStudyHards/Awesome-Tools/issues> ⭐ 1,187 | 🐛 18 | 📅 2026-09-24
+* **Awesome Tools，程序员常用高效实用工具、软件资源精选：** <https://github.com/YSGStudyHards/Awesome-Tools> ⭐ 1,187 | 🐛 18 | 📅 2026-09-24
 * **实用效率工具公众号详细介绍专栏：** [前往订阅👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==\&action=getalbum\&album_id=2983928075727978497\&scene=126\&sessionid=-1550706823#wechat_redirect)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
@@ -239,15 +239,15 @@
 
 ### Awesome Collection
 
-* [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,626 | 🐛 162 | 📅 2026-03-26
-* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,390 | 🐛 217 | 🌐 C# | 📅 2026-02-27
-* [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,373 | 🐛 94 | 📅 2026-09-14
-* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) ⭐ 3,287 | 🐛 7 | 📅 2026-04-27
+* [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,630 | 🐛 161 | 📅 2026-03-26
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,391 | 🐛 216 | 🌐 C# | 📅 2026-02-27
+* [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,372 | 🐛 94 | 📅 2026-09-14
+* [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) ⭐ 3,290 | 🐛 7 | 📅 2026-04-27
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) ⭐ 3,238 | 🐛 52 | 📅 2026-04-24
 * [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) ⭐ 3,084 | 🐛 7 | 📅 2024-10-31
 * [Awesome Unity3D](https://github.com/insthync/awesome-unity3d) ⭐ 2,736 | 🐛 1 | 📅 2026-09-01
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui) ⭐ 2,668 | 🐛 11 | 📅 2025-10-20
-* [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf) ⭐ 2,171 | 🐛 1 | 🌐 C# | 📅 2026-08-02
+* [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf) ⭐ 2,172 | 🐛 1 | 🌐 C# | 📅 2026-08-02
 * [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame) ⭐ 1,455 | 🐛 4 | 📅 2025-08-18
 * [Awesome Abp](https://github.com/EasyAbp/awesome-abp) ⭐ 459 | 🐛 0 | 📅 2026-02-19
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages) ⭐ 324 | 🐛 1 | 📅 2025-01-26
@@ -504,30 +504,30 @@ C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追
 C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程和代码示例，助力快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。
 
 * **想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言：** <https://github.com/YSGStudyHards/DotNetGuide/issues/42> ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
-* **DotNetExercises源码仓库地址：** <https://github.com/YSGStudyHards/DotNetExercises> ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10
+* **DotNetExercises源码仓库地址：** <https://github.com/YSGStudyHards/DotNetExercises> ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10
 
 ### 文章详细教程
 
 * [**7、MultithreadingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/MultithreadingExample.cs) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28：[C#实现多线程的几种方式](https://mp.weixin.qq.com/s/mnyoD9l6VNmjbTbvI0x1nA)
 * [**8、AsyncProgrammingExample**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/%E5%BC%82%E6%AD%A5%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/AsyncProgrammingExample.cs) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28：[.NET实现异步的几种方式](https://mp.weixin.qq.com/s/4XQ9uVmLvnOQwnkYLHFNag)
 * [**19、CSharp12GrammarExercise**](https://github.com/YSGStudyHards/DotNetGuide/blob/main/DotNetGuidePractice/HelloDotNetGuide/CSharp%E8%AF%AD%E6%B3%95/CSharp12GrammarExercise.cs) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28：[C# 12 新增功能实操](https://mp.weixin.qq.com/s/P-f-cP9bpUD99RsB3lQOzA)
-* [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
-* [**2、TimeCrontabExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TimeCrontabExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET 全能 Cron 表达式解析库](https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA)
-* [**3、BouncyCastleExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BouncyCastleExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
-* [**4、ScottPlotWinFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ScottPlotWinFormsExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示
+* [**1、QuestPDFExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/QuestPDFExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用QuestPDF高效地生成PDF文档](https://mp.weixin.qq.com/s/ZLxDsDE-UQnYdLnVw4h3Kg)
+* [**2、TimeCrontabExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TimeCrontabExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET 全能 Cron 表达式解析库](https://mp.weixin.qq.com/s/sO_TdFNNsUUQKePoEliTAA)
+* [**3、BouncyCastleExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/BouncyCastleExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[C#版开源免费的Bouncy Castle密码库](https://mp.weixin.qq.com/s/_VLzuDkyELusgsjFO6Wkog)
+* [**4、ScottPlotWinFormsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ScottPlotWinFormsExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用ScottPlot库在.NET WinForms中快速实现大型数据集的交互式显示
   ](https://mp.weixin.qq.com/s/d-nUV3pLQ5_MhyfV4rEzAg)
-* [**5、ChartjsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ChartjsExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
-* [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
-* [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
-* [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
-* [**11、SpectreExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SpectreExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
-* [**12、IdGeneratorExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/IdGeneratorExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET集成IdGenerator生成分布式全局唯一ID](https://mp.weixin.qq.com/s/U1qKb4nYkQNtbXmQJkxyPA)
-* [**13、FusionCacheExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FusionCacheExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
-* [**14、AutoMapperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/AutoMapperExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
-* [**15、CsvHelperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/CsvHelperExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
-* [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
-* [**17、TerminalGuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TerminalGuiExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
-* [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise) ⭐ 459 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
+* [**5、ChartjsExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/ChartjsExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[在Blazor中使用Chart.js快速创建图表](https://mp.weixin.qq.com/s/AfTWnRfS-aq32hdTn2VgdQ)
+* [**6、GenericRepositoryExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/GenericRepositoryExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个库帮你快速实现EF Core数据仓储模式](https://mp.weixin.qq.com/s/OQINTUyppNyh53GkOOaxMA)
+* [**9、DotnetSpiderExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/DotnetSpiderExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET快速实现网页数据抓取](https://mp.weixin.qq.com/s/Z4liThmMdTXJXXrSIZCUxg)
+* [**10、MapsuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MapsuiExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个 .NET 开源的地图组件库 - Mapsui](https://mp.weixin.qq.com/s/ltw3K87fqJO9qvSCQ0ao6g)
+* [**11、SpectreExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/SpectreExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[一个库帮你轻松的创建漂亮的.NET控制台应用程序](https://mp.weixin.qq.com/s/K1yOmNQFyl3RObrnBbG8LA)
+* [**12、IdGeneratorExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/IdGeneratorExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET集成IdGenerator生成分布式全局唯一ID](https://mp.weixin.qq.com/s/U1qKb4nYkQNtbXmQJkxyPA)
+* [**13、FusionCacheExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FusionCacheExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET开源强大、易于使用的缓存框架 - FusionCache](https://mp.weixin.qq.com/s/7CnK70qJRRb-OAqR9qAvAw)
+* [**14、AutoMapperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/AutoMapperExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[ASP.NET Core Web中使用AutoMapper进行对象映射](https://mp.weixin.qq.com/s/i4Wn0ox22gIffB8UwoBZXQ)
+* [**15、CsvHelperExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/CsvHelperExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用CsvHelper快速读取和写入CSV文件](https://mp.weixin.qq.com/s/md9kqIyVOKkvQv8xD7LCWA)
+* [**16、FileCompDecompExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/FileCompDecompExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[.NET使用原生方法实现文件压缩和解压](https://mp.weixin.qq.com/s/CCV2QC9-TFIM45sSyKYLag)
+* [**17、TerminalGuiExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/TerminalGuiExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用Terminal.Gui构建功能强大的.NET控制台应用](https://mp.weixin.qq.com/s/c9eonfbaHksv5vIc3tH0Ig)
+* [**18、MLNETExercise**](https://github.com/YSGStudyHards/DotNetExercises/tree/master/MLNETExercise) ⭐ 460 | 🐛 0 | 🌐 C# | 📅 2026-02-10：[使用ML.NET训练一个属于自己的图像分类模型，对图像进行分类就这么简单！](https://mp.weixin.qq.com/s/TMC6Dzk-k_Xs13THNNhbbA)
 * [**20、FFmpegAudioAndVideoMerge**](https://github.com/YSGStudyHards/FFmpegAudioAndVideoMerge) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2024-06-06：[C#进程调用FFmpeg操作音视频](https://mp.weixin.qq.com/s/7mz0cUddAp0vhR7JnD3hNg)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
@@ -547,7 +547,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Web前端面试宝典和常见面试题
 
-* [前端3+1面试题库](https://github.com/haizlin/fe-interview) ⭐ 26,272 | 🐛 6,259 | 🌐 JavaScript | 📅 2025-10-26
+* [前端3+1面试题库](https://github.com/haizlin/fe-interview) ⭐ 26,271 | 🐛 6,259 | 🌐 JavaScript | 📅 2025-10-26
 * [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview) ⭐ 2,837 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-18
 * [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
@@ -576,7 +576,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### AI实用编程工具
 
-* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,013 | 🐛 976 | 🌐 TypeScript | 📅 2026-09-24
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,027 | 🐛 975 | 🌐 TypeScript | 📅 2026-09-24
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
@@ -714,7 +714,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### SQL和数据库相关
 
-* [闯关式SQL自学网](https://github.com/liyupi/sql-mother) ⭐ 4,410 | 🐛 20 | 🌐 TypeScript | 📅 2025-07-01
+* [闯关式SQL自学网](https://github.com/liyupi/sql-mother) ⭐ 4,412 | 🐛 20 | 🌐 TypeScript | 📅 2025-07-01
 * [自学SQL网](http://xuesql.cn/)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
 * [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
@@ -732,8 +732,8 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### MySQL
 
-* [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql) ⭐ 18,436 | 🐛 113 | 📅 2024-11-27
-* [MySQL源代码](https://github.com/mysql/mysql-server) ⭐ 12,438 | 🐛 72 | 🌐 C++ | 📅 2026-09-24
+* [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql) ⭐ 18,435 | 🐛 113 | 📅 2024-11-27
+* [MySQL源代码](https://github.com/mysql/mysql-server) ⭐ 12,438 | 🐛 65 | 🌐 C++ | 📅 2026-09-24
 * [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial) ⭐ 4,778 | 🐛 8 | 📅 2026-04-23
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,614 | 🐛 19 | 🌐 Python | 📅 2026-09-22
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
@@ -831,9 +831,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 💡系统设计
 
-* [系统设计入门](https://github.com/donnemartin/system-design-primer) ⭐ 371,572 | 🐛 614 | 🌐 Python | 📅 2026-09-15
-* [一个值得推荐的图解系统设计学习知识库](https://github.com/ByteByteGoHq/system-design-101) ⭐ 89,902 | 🐛 69 | 📅 2025-04-04
-* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha) ⭐ 26,596 | 🐛 7 | 🌐 Java | 📅 2025-04-18
+* [系统设计入门](https://github.com/donnemartin/system-design-primer) ⭐ 371,744 | 🐛 615 | 🌐 Python | 📅 2026-09-15
+* [一个值得推荐的图解系统设计学习知识库](https://github.com/ByteByteGoHq/system-design-101) ⭐ 89,946 | 🐛 69 | 📅 2025-04-04
+* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha) ⭐ 26,595 | 🐛 7 | 🌐 Java | 📅 2025-04-18
 * [微服务：从设计到部署](https://github.com/DocsHome/microservices) ⭐ 5,163 | 🐛 2 | 📅 2019-07-18
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md) ⭐ 1,388 | 🐛 3 | 🌐 Java | 📅 2020-06-20
 * [浅谈6种流行的API架构风格](https://mp.weixin.qq.com/s/HXi2SBQcjjAk-WExmiXyCA)
@@ -842,7 +842,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 💻操作系统
 
-* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md) ⭐ 186,253 | 🐛 197 | 📅 2024-08-21
+* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md) ⭐ 186,283 | 🐛 197 | 📅 2024-08-21
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
 * [图解计算机操作系统](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F) ⭐ 2 | 🐛 0 | 📅 2023-07-26
 * [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search\&seid=13464543417132613798\&spm_id_from=333.337.0.0)
@@ -878,7 +878,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 > Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。
 
-* [Docker初级、中级、高级实战教程和指南](https://github.com/collabnix/dockerlabs) ⭐ 8,048 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-25
+* [Docker初级、中级、高级实战教程和指南](https://github.com/collabnix/dockerlabs) ⭐ 8,049 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-25
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
 * [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows\&pivots=dotnet-8-0)
 * [Docker中文社区](https://www.docker.org.cn/)
@@ -944,7 +944,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Git
 
-* [gitignore templates](https://github.com/github/gitignore) ⭐ 175,898 | 🐛 79 | 📅 2026-09-11
+* [gitignore templates](https://github.com/github/gitignore) ⭐ 175,917 | 🐛 79 | 📅 2026-09-11
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips) ⭐ 15,861 | 🐛 0 | 📅 2022-12-08
 * [Git大全](https://gitee.com/all-about-git)
 * [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
@@ -1002,40 +1002,40 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 | 项目描述                                                                                                                                      | 项目地址                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **mdnice resume**：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。                                                                  | <https://github.com/mdnice/markdown-resume> ⭐ 1,977 \| 🐛 54 \| 🌐 JavaScript \| 📅 2023-07-13  |
+| **mdnice resume**：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。                                                                  | <https://github.com/mdnice/markdown-resume> ⭐ 1,976 \| 🐛 54 \| 🌐 JavaScript \| 📅 2023-07-13  |
 | **冷熊简历**：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。                                                                                         | <http://cv.ftqq.com/?fr=github>                                                                 |
 | **Resume Generator**：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。                                                                                         | <https://github.com/visiky/resume> ⭐ 3,199 \| 🐛 40 \| 🌐 TypeScript \| 📅 2023-08-30           |
 | **best resume ever**：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。                                                                                        | <https://github.com/salomonelli/best-resume-ever> ⭐ 16,482 \| 🐛 57 \| 🌐 Vue \| 📅 2024-06-11  |
-| **Magic Resume**：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。                                           | <https://github.com/JOYCEQL/magic-resume> ⭐ 10,692 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-09-22   |
-| **codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。                                                                  | <https://github.com/acmenlei/codecv> ⭐ 981 \| 🐛 9 \| 🌐 TypeScript \| 📅 2024-03-12            |
-| **OpenResume**：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。                                                   | <https://github.com/xitanggg/open-resume> ⭐ 8,909 \| 🐛 145 \| 🌐 TypeScript \| 📅 2024-10-29   |
-| **猫步简历**：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。           | <https://github.com/Hacker233/resume-design> ⭐ 4,027 \| 🐛 5 \| 🌐 Vue \| 📅 2026-04-20         |
+| **Magic Resume**：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。                                           | <https://github.com/JOYCEQL/magic-resume> ⭐ 10,701 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-09-22   |
+| **codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。                                                                  | <https://github.com/acmenlei/codecv> ⭐ 982 \| 🐛 9 \| 🌐 TypeScript \| 📅 2024-03-12            |
+| **OpenResume**：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。                                                   | <https://github.com/xitanggg/open-resume> ⭐ 8,911 \| 🐛 145 \| 🌐 TypeScript \| 📅 2024-10-29   |
+| **猫步简历**：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。           | <https://github.com/Hacker233/resume-design> ⭐ 4,028 \| 🐛 5 \| 🌐 Vue \| 📅 2026-04-20         |
 | **Dnd Resume**：是一个免费且开源的简历生成工具，帮助您轻松创建专业的简历。                                                                                              | <https://github.com/Arman19941113/dnd-resume> ⭐ 1,412 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-08-31 |
 | **ResumeToJob**：是一个免费开源的在线简历制作工具，帮助求职者快速创建专业、美观的简历。支持多种模板选择、实时编辑、PDF 导出等功能，同时保护您的隐私数据安全。                                                  | <https://github.com/ltlylfun/ResumeToJob> ⭐ 444 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-01-12       |
-| **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | <https://github.com/geekcompany/ResumeSample> ⭐ 28,321 \| 🐛 11 \| 📅 2024-08-14                |
-| **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。                                                                                                  | <https://github.com/resumejob/awesome-resume> ⭐ 7,434 \| 🐛 5 \| 📅 2025-09-23                  |
+| **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | <https://github.com/geekcompany/ResumeSample> ⭐ 28,322 \| 🐛 11 \| 📅 2024-08-14                |
+| **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。                                                                                                  | <https://github.com/resumejob/awesome-resume> ⭐ 7,436 \| 🐛 5 \| 📅 2025-09-23                  |
 | **DeerResume**：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。                                                                                   | <https://github.com/geekcompany/DeerResume> ⭐ 3,459 \| 🐛 18 \| 🌐 JavaScript \| 📅 2018-05-07  |
-| **Markdown Resume**：用 markdown 语法来写的简历模版，非常简洁通用。                                                                                          | <https://github.com/CyC2018/Markdown-Resume> ⭐ 3,451 \| 🐛 10 \| 🌐 HTML \| 📅 2019-10-30       |
-| **Awesome Resume for Chinese**：汇总收集中文的简历模板。                                                                                               | <https://github.com/dyweb/awesome-resume-for-chinese> ⭐ 8,479 \| 🐛 4 \| 📅 2026-07-22          |
-| **Markdown Resume Template**：BAT程序员自己的简历模板分享出来了。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。                                         | <https://github.com/youngyangyang04/Markdown-Resume-Template> ⭐ 1,044 \| 🐛 0 \| 📅 2026-09-08  |
+| **Markdown Resume**：用 markdown 语法来写的简历模版，非常简洁通用。                                                                                          | <https://github.com/CyC2018/Markdown-Resume> ⭐ 3,450 \| 🐛 10 \| 🌐 HTML \| 📅 2019-10-30       |
+| **Awesome Resume for Chinese**：汇总收集中文的简历模板。                                                                                               | <https://github.com/dyweb/awesome-resume-for-chinese> ⭐ 8,480 \| 🐛 4 \| 📅 2026-07-22          |
+| **Markdown Resume Template**：BAT程序员自己的简历模板分享出来了。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。                                         | <https://github.com/youngyangyang04/Markdown-Resume-Template> ⭐ 1,045 \| 🐛 0 \| 📅 2026-09-08  |
 | **Resume template for Coder**：适合程序员的简历模板。                                                                                                 | <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 532 \| 🐛 0 \| 📅 2022-02-22           |
-| **latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。                                                                           | <https://github.com/jankapunkt/latexcv> ⭐ 3,341 \| 🐛 5 \| 🌐 TeX \| 📅 2026-09-05              |
+| **latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。                                                                           | <https://github.com/jankapunkt/latexcv> ⭐ 3,342 \| 🐛 5 \| 🌐 TeX \| 📅 2026-09-05              |
 | **AI Job Resume**：AI 算法岗简历模板。                                                                                                             | <https://github.com/amusi/AI-Job-Resume> ⭐ 722 \| 🐛 0 \| 📅 2019-08-19                         |
-| **King of Pigeon**：计算机保研简历与文书实用模板。                                                                                                        | <https://github.com/yuezih/King-of-Pigeon> ⭐ 2,293 \| 🐛 3 \| 📅 2024-06-04                     |
+| **King of Pigeon**：计算机保研简历与文书实用模板。                                                                                                        | <https://github.com/yuezih/King-of-Pigeon> ⭐ 2,292 \| 🐛 3 \| 📅 2024-06-04                     |
 | **Deedy Resume**：适合应届毕业生的 LaTeX 简历模板。                                                                                                     | <https://github.com/dyweb/Deedy-Resume-for-Chinese> ⭐ 570 \| 🐛 2 \| 🌐 TeX \| 📅 2017-10-07    |
-| **LapisCV**：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职、求学场景。                                                                               | <https://github.com/BingyanStudio/LapisCV> ⭐ 5,066 \| 🐛 12 \| 🌐 CSS \| 📅 2026-07-16          |
+| **LapisCV**：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职、求学场景。                                                                               | <https://github.com/BingyanStudio/LapisCV> ⭐ 5,067 \| 🐛 12 \| 🌐 CSS \| 📅 2026-07-16          |
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf) ⭐ 10,991 | 🐛 13 | 🌐 C# | 📅 2026-06-28
 
 ## 🧭宝藏指南
 
-* [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 75,827 | 🐛 162 | 🌐 HTML | 📅 2026-09-17
-* [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,324 | 🐛 139 | 🌐 JavaScript | 📅 2026-09-11
-* [免费的接口服务收集](https://github.com/fangzesheng/free-api) ⭐ 16,265 | 🐛 51 | 📅 2026-07-25
+* [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 75,841 | 🐛 162 | 🌐 HTML | 📅 2026-09-17
+* [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,323 | 🐛 139 | 🌐 JavaScript | 📅 2026-09-11
+* [免费的接口服务收集](https://github.com/fangzesheng/free-api) ⭐ 16,267 | 🐛 51 | 📅 2026-07-25
 * [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books) ⭐ 15,539 | 🐛 40 | 📅 2021-08-26
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture) ⭐ 9,681 | 🐛 10 | 📅 2021-01-06
-* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english) ⭐ 4,311 | 🐛 15 | 📅 2026-09-15
-* [免费的编程资源大全](https://github.com/liyupi/free-programming-resources) ⭐ 3,727 | 🐛 7 | 🌐 HTML | 📅 2026-03-23
+* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english) ⭐ 4,317 | 🐛 15 | 📅 2026-09-15
+* [免费的编程资源大全](https://github.com/liyupi/free-programming-resources) ⭐ 3,729 | 🐛 7 | 🌐 HTML | 📅 2026-03-23
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide) ⭐ 106 | 🐛 1 | 🌐 HTML | 📅 2023-10-22
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN) ⭐ 23 | 🐛 0 | 📅 2020-11-27
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer) ⭐ 21 | 🐛 0 | 📅 2023-09-17
@@ -1075,4 +1075,4 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
