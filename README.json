@@ -5,1442 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🏷️优质学习资料收录栈",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🏹编程效率提升技巧集",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "⚒️程序员常用的工具软件",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔋C#/.NET/.NET Core充电站",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "👨‍🎓C#/.NET/.NET Core人才招聘",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🎁C#/.NET/.NET Core面试宝典",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🚀C#/.NET/.NET Core拾遗补漏",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📰C#/.NET/.NET Core最新资讯",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🕹C#/.NET/.NET Core学习路线集合",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🥇C#/.NET/.NET Core开发实战教程",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "✋C#/.NET/.NET Core疑难问题答疑",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📚C#/.NET/.NET Core推荐学习书籍",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📺C#/.NET/.NET Core学习视频大全",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🏗️C#/.NET/.NET Core优秀项目框架",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🏆C#/.NET/.NET Core技术前沿周刊",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "⚔C#/.NET/.NET Core编程技巧练习集",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🌍Web前端开发指南",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🤖AIGC&AI赋能",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🧱设计模式",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🛠️数据结构",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🧮逻辑算法",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🍇关系型数据库",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🍉非关系型数据库",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "💡系统设计",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "💻操作系统",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🛰️计算机网络",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "☁️容器技术",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🧰DevOps&CI&CD",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🧲版本控制工具",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📨面试经验分享",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🙇面试须知",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "👩‍💻简历模板",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🧭宝藏指南",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "⚖社区组织",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        }
-      ],
-      "title": "🔍目录导航(善用Ctrl+F)"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "🎯2025年ASP.NET Core开发者学习指南",
-          "description": null,
+          "description": "MoienTajik/AspNetCore-Developer-Roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1471,7 +37,7 @@
         {
           "node_type": "item",
           "title": "🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）",
-          "description": null,
+          "description": "dotnet/csharplang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1480,7 +46,7 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-18T07:33:07Z",
+            "last_commit": "2026-10-03T00:16:39Z",
             "open_issues": 290,
             "owner": "dotnet",
             "repo": "csharplang",
@@ -1488,174 +54,6 @@
             "topics": [
               "csharp",
               "language-design"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🚤适合后端程序员的前端框架",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🐮C#/.NET/.NET Core推荐博客&博主&公众号",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "⛵C#/.NET/.NET Core推荐学习路线&文档&文章",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
             ]
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1671,7 +69,7 @@
             {
               "node_type": "item",
               "title": "领先的开源AI代码助手：Continue",
-              "description": null,
+              "description": "continuedev/continue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1681,10 +79,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:41:02Z",
-                "open_issues": 834,
+                "open_issues": 824,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36087,
+                "stars": 36090,
                 "topics": [
                   "agent",
                   "ai",
@@ -1705,7 +103,7 @@
             {
               "node_type": "item",
               "title": "GitHub漫游指南",
-              "description": null,
+              "description": "phodal/github",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1718,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "phodal",
                 "repo": "github",
-                "stars": 11236,
+                "stars": 11238,
                 "topics": [
                   "book",
                   "books",
@@ -1734,55 +132,6 @@
           "description": null,
           "node_type": "group",
           "title": "GitHub使用指南"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Git管理工具"
         }
       ],
       "title": "🏹编程效率提升技巧集"
@@ -1793,7 +142,7 @@
         {
           "node_type": "item",
           "title": "欢迎PR或Issues投稿： https://github.com/YSGStudyHards/Awesome-Tools/issues",
-          "description": null,
+          "description": "YSGStudyHards/Awesome-Tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1803,7 +152,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-28T12:56:18Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
             "stars": 1189,
@@ -1822,7 +171,7 @@
         {
           "node_type": "item",
           "title": "Awesome Tools，程序员常用高效实用工具、软件资源精选： https://github.com/YSGStudyHards/Awesome-Tools",
-          "description": null,
+          "description": "YSGStudyHards/Awesome-Tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1832,7 +181,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-28T12:56:18Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
             "stars": 1189,
@@ -1844,48 +193,6 @@
               "mac-tools",
               "tools",
               "windows-tools"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
             ]
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1901,7 +208,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET",
-              "description": null,
+              "description": "quozd/awesome-dotnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1914,7 +221,7 @@
                 "open_issues": 163,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21637,
+                "stars": 21639,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1929,7 +236,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET Core",
-              "description": null,
+              "description": "thangchung/awesome-dotnet-core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1957,7 +264,7 @@
             {
               "node_type": "item",
               "title": "Awesome Blazor",
-              "description": null,
+              "description": "AdrienTorris/awesome-blazor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1999,7 +306,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET Performance",
-              "description": null,
+              "description": "adamsitnik/awesome-dot-net-performance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2020,7 +327,7 @@
             {
               "node_type": "item",
               "title": "Awesome Avalonia",
-              "description": null,
+              "description": "AvaloniaCommunity/awesome-avalonia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2048,7 +355,7 @@
             {
               "node_type": "item",
               "title": "Awesome Microservices .NET",
-              "description": null,
+              "description": "mjebrahimi/Awesome-Microservices-DotNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2088,7 +395,7 @@
             {
               "node_type": "item",
               "title": "Awesome Unity3D",
-              "description": null,
+              "description": "insthync/awesome-unity3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2109,7 +416,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET MAUI",
-              "description": null,
+              "description": "jsuarezruiz/awesome-dotnet-maui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2135,7 +442,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET WPF",
-              "description": null,
+              "description": "Carlos487/awesome-wpf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +472,7 @@
             {
               "node_type": "item",
               "title": "Awesome MonoGame",
-              "description": null,
+              "description": "aloisdeniel/awesome-monogame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2191,7 +498,7 @@
             {
               "node_type": "item",
               "title": "Awesome Abp",
-              "description": null,
+              "description": "EasyAbp/awesome-abp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2215,7 +522,7 @@
             {
               "node_type": "item",
               "title": "Awesome Nuget Packages",
-              "description": null,
+              "description": "mjebrahimi/Awesome-Nuget-Packages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2251,7 +558,7 @@
             {
               "node_type": "item",
               "title": "Awesome Unity Tutorial",
-              "description": null,
+              "description": "chutianshu1981/AwesomeUnityTutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2272,7 +579,7 @@
             {
               "node_type": "item",
               "title": "Awesome .NET WinForms",
-              "description": null,
+              "description": "tbolon/awesome-dotnet-winforms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2289,48 +596,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
             }
           ],
           "description": null,
@@ -2341,699 +606,12 @@
       "title": "🔋C#/.NET/.NET Core充电站"
     },
     {
-      "description": "在这个快速发展的技术世界中，时常会有一些重要的知识点、信息或细节被忽略或遗漏。《C#/.NET/.NET Core拾遗补漏》专栏我们将探讨一些可能被忽略或遗漏的重要知识点、信息或细节，以帮助大家更全面地了解这些技术栈的特性和发展方向。",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "✍C#/.NET/.NET Core拾遗补漏Issues投稿",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📚C#/.NET/.NET Core拾遗补漏GitHub合集",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        }
-      ],
-      "title": "🚀C#/.NET/.NET Core拾遗补漏"
-    },
-    {
-      "description": "C#、.NET、.NET Core、WPF、WinForm、MAUI、Avalonia、Unity 等相关技术学习、工作路线集合，无论你是 .NET 初学者还是希望进阶的 .NET 开发者，都能在这里找到清晰的学习路线与实用资源。内容将持续更新，助力 .NET 开发者高效掌握技术要点，少走弯路，稳步进阶！",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        }
-      ],
-      "title": "🕹C#/.NET/.NET Core学习路线集合"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": "文章源于博客园老张的哲学，更多.NET相关优质文章教程欢迎关注老张的哲学👉",
-          "node_type": "group",
-          "title": "ASP.NET Core从壹开始微服务[DDD]教程"
-        }
-      ],
-      "title": "🥇C#/.NET/.NET Core开发实战教程"
-    },
-    {
-      "description": "古人云：“书中自有黄金屋，书中自有颜如玉”，说明了书籍的重要性。作为程序员，我们需要不断学习以提升自己的核心竞争力。以下是一些优秀的C#/.NET/.NET Core相关学习书籍，值得.NET开发者们学习和专研。书籍已分类，欢迎大家PR分享自己觉得不错的C#/.NET/.NET Core宝藏书籍。",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📚C#/.NET/.NET Core推荐学习书籍Issues",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📖C#/.NET/.NET Core推荐学习书籍（GitHub已分类）",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        }
-      ],
-      "title": "📚C#/.NET/.NET Core推荐学习书籍"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🏗️C#/.NET/.NET Core优秀项目和框架Issues",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": "为.NET开源勇士提供一个推荐自己优秀项目和框架的Issues，大家可以把自己写的或者感觉不错的C#/.NET/.NET Core项目or框架链接地址和描述提交到在这里，提供给广大.NET开发者们参考、学习和使用，并且我会定期在公众号推广和分享👀这些优秀项目和框架（注意：排名不分先后，都是十分优秀的开源框架和项目💖）。",
-          "node_type": "group",
-          "title": "C#/.NET/.NET Core优秀项目和框架Issues"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔔C#/.NET/.NET Core优秀项目和框架GitHub精选",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": "帮助开发者发现功能强大、性能优越、创新前沿、简单易用的C#/.NET/.NET Core优秀项目和框架，无论你是寻找灵感、学习新技术、改进代码质量，还是想拓展自己的技术视野，都能为你提供有价值的参考和指导。关注优秀项目和框架精选能让你及时了解C#、.NET和.NET Core领域的最新动态和最佳实践，提高开发效率和质量。坑已挖，欢迎大家踊跃提交PR或者在该🏗️C#/.NET/.NET Core优秀项目和框架Issues中留言（让优秀的项目和框架不被埋没），我会定期收录、公众号推广和分享👀（注意：排名不分先后，都是十分优秀的开源项目和框架，每周定期更新分享💖）。",
-          "node_type": "group",
-          "title": "C#/.NET/.NET Core优秀项目和框架精选"
-        }
-      ],
-      "title": "🏗️C#/.NET/.NET Core优秀项目框架"
-    },
-    {
-      "description": "C#/.NET/.NET Core技术前沿周刊，你的每周技术指南针！记录、追踪C#/.NET/.NET Core领域、生态的每周最新、最实用、最有价值的技术文章、社区动态、优质项目和学习资源等。让你时刻站在技术前沿，助力技术成长与视野拓宽。\n欢迎投稿、推荐或自荐优质文章、项目、学习资源等。",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🏆C#/.NET/.NET Core技术前沿周刊Issues",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📰C#/.NET/.NET Core技术前沿周刊GitHub汇总",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        }
-      ],
-      "title": "🏆C#/.NET/.NET Core技术前沿周刊"
-    },
-    {
       "description": "C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工作业务实操练习集，配套详细的文章教程和代码示例，助力快速掌握C#/.NET/.NET Core中各种编程常用语法、算法、技巧、中间件、类库、工作业务实操等等。",
       "items": [
         {
           "node_type": "item",
-          "title": "想要学习C#/.NET/.NET Core什么技术欢迎Issues中留言： https://github.com/YSGStudyHards/DotNetGuide/issues/42",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
           "title": "DotNetExercises源码仓库地址： https://github.com/YSGStudyHards/DotNetExercises",
-          "description": null,
+          "description": "YSGStudyHards/DotNetExercises",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3063,132 +641,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "7、MultithreadingExample",
-              "description": "：C#实现多线程的几种方式",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "8、AsyncProgrammingExample",
-              "description": "：.NET实现异步的几种方式",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "19、CSharp12GrammarExercise",
-              "description": "：C# 12 新增功能实操",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
             {
               "node_type": "item",
               "title": "1、QuestPDFExercise",
@@ -3705,48 +1157,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
             }
           ],
           "description": null,
@@ -3764,7 +1174,7 @@
             {
               "node_type": "item",
               "title": "前端学习路线图",
-              "description": null,
+              "description": "CurrentVastStars/front-end-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3792,7 +1202,7 @@
             {
               "node_type": "item",
               "title": "前端3+1面试题库",
-              "description": null,
+              "description": "haizlin/fe-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3829,7 +1239,7 @@
             {
               "node_type": "item",
               "title": "宇宙最强的前端面试指南",
-              "description": null,
+              "description": "azl397985856/fe-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3863,50 +1273,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "适合后端程序员的前端框架",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
               "title": "GitHub最全的前端资源汇总仓库",
-              "description": null,
+              "description": "FrontEndGitHub/FrontEndGitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3933,7 +1301,7 @@
             {
               "node_type": "item",
               "title": "一个优秀的前端都应该阅读这些文章",
-              "description": null,
+              "description": "Nealyang/PersonalBlog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3948,48 +1316,6 @@
                 "repo": "PersonalBlog",
                 "stars": 1112,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
             }
@@ -4009,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "领先的开源AI代码助手：Continue",
-              "description": null,
+              "description": "continuedev/continue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4019,10 +1345,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:41:02Z",
-                "open_issues": 834,
+                "open_issues": 824,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36087,
+                "stars": 36090,
                 "topics": [
                   "agent",
                   "ai",
@@ -4043,7 +1369,7 @@
             {
               "node_type": "item",
               "title": "2025年最好的AI提示词合集：ChatGPT、Claude、Gemini 提示词大全",
-              "description": null,
+              "description": "holmquistc407/ai-tishici",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4065,55 +1391,6 @@
           "description": null,
           "node_type": "group",
           "title": "AI提示词大全"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "AI实战从入门到精通"
         }
       ],
       "title": "🤖AIGC&AI赋能"
@@ -4126,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "图说设计模式",
-              "description": null,
+              "description": "me115/design_patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4147,7 +1424,7 @@
             {
               "node_type": "item",
               "title": "C#常见的23种设计模式（含源码）圣杰",
-              "description": null,
+              "description": "sheng-jie/Design-Pattern",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4172,7 +1449,7 @@
             {
               "node_type": "item",
               "title": "23种面向对象设计模式示例代码（C#实现）Edison Zhou",
-              "description": null,
+              "description": "EdisonTalk/DesignPattern.Samples.CSharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4197,155 +1474,9 @@
           "description": null,
           "node_type": "group",
           "title": "设计模式推荐学习教程"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "经典的23种设计模式"
         }
       ],
       "title": "🧱设计模式"
-    },
-    {
-      "description": "逻辑算法是一种基于逻辑推理和结构化思维的算法设计方法。它是指通过逻辑关系和规则来解决问题的算法。逻辑算法通常使用形式化的逻辑语言和符号进行描述和表达，以便于机器或计算机程序的理解和执行。",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "C#经典算法面试题汇总",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "C#常见逻辑算法"
-        }
-      ],
-      "title": "🧮逻辑算法"
     },
     {
       "description": "关系型数据库（SQL）库指的是使用关系模型（二维表格模型）来组织数据的数据库，是一种使用结构化查询语言（Structured Query Language，简称SQL）进行数据管理和操作的数据库类型。它采用表格的形式来组织和存储数据，通过定义表之间的关系来建立数据之间的联系。",
@@ -4355,7 +1486,7 @@
             {
               "node_type": "item",
               "title": "闯关式SQL自学网",
-              "description": null,
+              "description": "liyupi/sql-mother",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4394,7 +1525,7 @@
             {
               "node_type": "item",
               "title": "MySQL图解教程",
-              "description": null,
+              "description": "xiaolincoder/CS-Base",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4404,7 +1535,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-11-27T06:32:13Z",
-                "open_issues": 113,
+                "open_issues": 112,
                 "owner": "xiaolincoder",
                 "repo": "CS-Base",
                 "stars": 18449,
@@ -4424,7 +1555,7 @@
             {
               "node_type": "item",
               "title": "MySQL源代码",
-              "description": null,
+              "description": "mysql/mysql-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4445,7 +1576,7 @@
             {
               "node_type": "item",
               "title": "MySQL入门教程（MySQL tutorial book）",
-              "description": null,
+              "description": "jaywcjlove/mysql-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4472,7 +1603,7 @@
             {
               "node_type": "item",
               "title": "Awesome MySQL",
-              "description": null,
+              "description": "shlomi-noach/awesome-mysql",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4500,7 +1631,7 @@
             {
               "node_type": "item",
               "title": "PostgreSQL开发指南",
-              "description": null,
+              "description": "YSGStudyHards/postgresql_dev_guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4528,7 +1659,7 @@
             {
               "node_type": "item",
               "title": ".NET操作SQLite实战教程",
-              "description": null,
+              "description": "YSGStudyHards/EasySQLite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4551,48 +1682,6 @@
                 ]
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
             }
           ],
           "description": null,
@@ -4610,7 +1699,7 @@
             {
               "node_type": "item",
               "title": "带有详细注释的 Redis 3.0 代码",
-              "description": null,
+              "description": "huangzworks/redis-3.0-annotated",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4631,7 +1720,7 @@
             {
               "node_type": "item",
               "title": "带有详细注释的 Redis 2.6 代码",
-              "description": null,
+              "description": "huangzworks/annotated_redis_source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4652,7 +1741,7 @@
             {
               "node_type": "item",
               "title": "Redis图解",
-              "description": null,
+              "description": "MyBigKnowledgeBase/CS-Base",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4674,55 +1763,6 @@
           "description": null,
           "node_type": "group",
           "title": "Redis"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Memcached"
         }
       ],
       "title": "🍉非关系型数据库（NoSQL）"
@@ -4733,7 +1773,7 @@
         {
           "node_type": "item",
           "title": "系统设计入门",
-          "description": null,
+          "description": "donnemartin/system-design-primer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4746,7 +1786,7 @@
             "open_issues": 623,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372949,
+            "stars": 372975,
             "topics": [
               "design",
               "design-patterns",
@@ -4768,7 +1808,7 @@
         {
           "node_type": "item",
           "title": "一个值得推荐的图解系统设计学习知识库",
-          "description": null,
+          "description": "ByteByteGoHq/system-design-101",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4781,7 +1821,7 @@
             "open_issues": 69,
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 90174,
+            "stars": 90180,
             "topics": [
               "aws",
               "cloud-computing",
@@ -4800,7 +1840,7 @@
         {
           "node_type": "item",
           "title": "秒杀系统设计与实现",
-          "description": null,
+          "description": "qiurunze123/miaosha",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4821,7 +1861,7 @@
         {
           "node_type": "item",
           "title": "微服务：从设计到部署",
-          "description": null,
+          "description": "DocsHome/microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4854,7 +1894,7 @@
         {
           "node_type": "item",
           "title": "系统与架构设计",
-          "description": null,
+          "description": "zaiyunduan123/Java-Summarize",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4871,48 +1911,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
         }
       ],
       "title": "💡系统设计"
@@ -4923,7 +1921,7 @@
         {
           "node_type": "item",
           "title": "计算机操作系统",
-          "description": null,
+          "description": "CyC2018/CS-Notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4936,7 +1934,7 @@
             "open_issues": 197,
             "owner": "CyC2018",
             "repo": "CS-Notes",
-            "stars": 186370,
+            "stars": 186369,
             "topics": [
               "algorithm",
               "computer-science",
@@ -4952,50 +1950,8 @@
         },
         {
           "node_type": "item",
-          "title": "Linux",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
           "title": "图解计算机操作系统",
-          "description": null,
+          "description": "MyBigKnowledgeBase/CS-Base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5010,48 +1966,6 @@
             "repo": "CS-Base",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
         }
@@ -5064,7 +1978,7 @@
         {
           "node_type": "item",
           "title": "图解计算机网络",
-          "description": null,
+          "description": "MyBigKnowledgeBase/CS-Base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5079,48 +1993,6 @@
             "repo": "CS-Base",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
         }
@@ -5135,7 +2007,7 @@
             {
               "node_type": "item",
               "title": "Kubernetes指南",
-              "description": null,
+              "description": "feiskyer/kubernetes-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5174,7 +2046,7 @@
             {
               "node_type": "item",
               "title": "Docker初级、中级、高级实战教程和指南",
-              "description": null,
+              "description": "collabnix/dockerlabs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5207,55 +2079,6 @@
           "description": "Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。",
           "node_type": "group",
           "title": "Docker"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": "容器编排平台的主要作用是帮助用户有效地管理和调度大规模的容器化应用程序，从而提高应用程序的可靠性、弹性和可扩展性。",
-          "node_type": "group",
-          "title": "容器编排平台"
         }
       ],
       "title": "☁️容器技术"
@@ -5267,63 +2090,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": "越来越多的工程团队正在采用敏捷开发，推动更短，更快的发布周期。代码库增长和创建新生产构建的频率导致持续集成和持续部署/交付工具的兴起。持续集成（CI）和持续交付/部署（CD）自动化工具是用于实现软件开发和发布流程自动化的工具。这些工具能够帮助开发团队更高效地集成代码、运行测试、进行构建和部署，从而提高软件开发的效率和质量。",
-          "node_type": "group",
-          "title": "持续集成与部署（CI&CD）自动化工具"
-        }
-      ],
-      "title": "🧰DevOps、CI&CD自动化工具"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "gitignore templates",
-              "description": null,
+              "description": "github/gitignore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5332,11 +2100,11 @@
                 "id": 1062897,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-28T17:05:47Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-02T20:59:38Z",
+                "open_issues": 66,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176012,
+                "stars": 176015,
                 "topics": [
                   "git",
                   "gitignore"
@@ -5347,7 +2115,7 @@
             {
               "node_type": "item",
               "title": "Git的奇技淫巧",
-              "description": null,
+              "description": "521xueweihan/git-tips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5373,55 +2141,6 @@
           "description": null,
           "node_type": "group",
           "title": "Git"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔝返回目录",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-                "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-                "id": 302375024,
-                "language": "C#",
-                "license": "MIT",
-                "last_commit": "2026-06-28T01:17:33Z",
-                "open_issues": 13,
-                "owner": "YSGStudyHards",
-                "repo": "DotNetGuide",
-                "stars": 11011,
-                "topics": [
-                  "asp-net",
-                  "aspnet-core",
-                  "aspnetcore",
-                  "avalonia",
-                  "awasome",
-                  "awesome-list",
-                  "azure",
-                  "blazor",
-                  "chsarp",
-                  "dotnet",
-                  "git",
-                  "github",
-                  "guide",
-                  "interview",
-                  "maui",
-                  "microsoft",
-                  "practice",
-                  "unity3d",
-                  "winforms",
-                  "wpf"
-                ]
-              },
-              "first_seen": "2026-08-29T00:04:00.840Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "SVN"
         }
       ],
       "title": "🧲版本控制工具"
@@ -5432,7 +2151,7 @@
         {
           "node_type": "item",
           "title": "程序员应该有的一些好习惯+面试必知事项",
-          "description": null,
+          "description": "CodingDocs/advanced-programmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5455,7 +2174,7 @@
         {
           "node_type": "item",
           "title": "关于面试/谈Offer/程序员职场生涯等",
-          "description": null,
+          "description": "lietoumai/Awesome-offer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5478,7 +2197,7 @@
         {
           "node_type": "item",
           "title": "程序员写简历必须要注意的技术词汇拼写",
-          "description": null,
+          "description": "StartInterview/Awesome-Tech-Words",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5495,48 +2214,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
         }
       ],
       "title": "🙇面试须知"
@@ -5547,7 +2224,7 @@
         {
           "node_type": "item",
           "title": "mdnice resume：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。",
-          "description": "https://github.com/mdnice/markdown-resume",
+          "description": "mdnice/markdown-resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5568,7 +2245,7 @@
         {
           "node_type": "item",
           "title": "Resume Generator：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。",
-          "description": "https://github.com/visiky/resume",
+          "description": "visiky/resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5581,7 +2258,7 @@
             "open_issues": 41,
             "owner": "visiky",
             "repo": "resume",
-            "stars": 3199,
+            "stars": 3200,
             "topics": [
               "gatsby",
               "resume",
@@ -5594,7 +2271,7 @@
         {
           "node_type": "item",
           "title": "best resume ever：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。",
-          "description": "https://github.com/salomonelli/best-resume-ever",
+          "description": "salomonelli/best-resume-ever",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5607,7 +2284,7 @@
             "open_issues": 57,
             "owner": "salomonelli",
             "repo": "best-resume-ever",
-            "stars": 16484,
+            "stars": 16482,
             "topics": [
               "cv",
               "javascript",
@@ -5622,7 +2299,7 @@
         {
           "node_type": "item",
           "title": "Magic Resume：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。",
-          "description": "https://github.com/JOYCEQL/magic-resume",
+          "description": "JOYCEQL/magic-resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5653,7 +2330,7 @@
         {
           "node_type": "item",
           "title": "codecv：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。",
-          "description": "https://github.com/acmenlei/codecv",
+          "description": "acmenlei/codecv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5681,7 +2358,7 @@
         {
           "node_type": "item",
           "title": "OpenResume：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。",
-          "description": "https://github.com/xitanggg/open-resume",
+          "description": "xitanggg/open-resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5711,7 +2388,7 @@
         {
           "node_type": "item",
           "title": "猫步简历：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。",
-          "description": "https://github.com/Hacker233/resume-design",
+          "description": "Hacker233/resume-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5732,7 +2409,7 @@
         {
           "node_type": "item",
           "title": "Dnd Resume：是一个免费且开源的简历生成工具，帮助您轻松创建专业的简历。",
-          "description": "https://github.com/Arman19941113/dnd-resume",
+          "description": "Arman19941113/dnd-resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5758,7 +2435,7 @@
         {
           "node_type": "item",
           "title": "ResumeToJob：是一个免费开源的在线简历制作工具，帮助求职者快速创建专业、美观的简历。支持多种模板选择、实时编辑、PDF 导出等功能，同时保护您的隐私数据安全。",
-          "description": "https://github.com/ltlylfun/ResumeToJob",
+          "description": "ltlylfun/ResumeToJob",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5792,7 +2469,7 @@
         {
           "node_type": "item",
           "title": "ResumeSample：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。",
-          "description": "https://github.com/geekcompany/ResumeSample",
+          "description": "geekcompany/ResumeSample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5813,7 +2490,7 @@
         {
           "node_type": "item",
           "title": "Awesome Resume：程序员简历例句，程序员简历范例，简历模版。",
-          "description": "https://github.com/resumejob/awesome-resume",
+          "description": "resumejob/awesome-resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5826,7 +2503,7 @@
             "open_issues": 5,
             "owner": "resumejob",
             "repo": "awesome-resume",
-            "stars": 7442,
+            "stars": 7441,
             "topics": [
               "resume",
               "resume-template",
@@ -5838,7 +2515,7 @@
         {
           "node_type": "item",
           "title": "DeerResume：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。",
-          "description": "https://github.com/geekcompany/DeerResume",
+          "description": "geekcompany/DeerResume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5859,7 +2536,7 @@
         {
           "node_type": "item",
           "title": "Markdown Resume：用 markdown 语法来写的简历模版，非常简洁通用。",
-          "description": "https://github.com/CyC2018/Markdown-Resume",
+          "description": "CyC2018/Markdown-Resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5880,7 +2557,7 @@
         {
           "node_type": "item",
           "title": "Awesome Resume for Chinese：汇总收集中文的简历模板。",
-          "description": "https://github.com/dyweb/awesome-resume-for-chinese",
+          "description": "dyweb/awesome-resume-for-chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5893,7 +2570,7 @@
             "open_issues": 4,
             "owner": "dyweb",
             "repo": "awesome-resume-for-chinese",
-            "stars": 8507,
+            "stars": 8508,
             "topics": [
               "engineer",
               "html",
@@ -5907,7 +2584,7 @@
         {
           "node_type": "item",
           "title": "Markdown Resume Template：BAT程序员自己的简历模板分享出来了。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。",
-          "description": "https://github.com/youngyangyang04/Markdown-Resume-Template",
+          "description": "youngyangyang04/Markdown-Resume-Template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5928,7 +2605,7 @@
         {
           "node_type": "item",
           "title": "Resume template for Coder：适合程序员的简历模板。",
-          "description": "https://github.com/byoungd/Resume-template-for-Coder",
+          "description": "byoungd/Resume-template-for-Coder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5951,7 +2628,7 @@
         {
           "node_type": "item",
           "title": "latexcv：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。",
-          "description": "https://github.com/jankapunkt/latexcv",
+          "description": "jankapunkt/latexcv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5988,7 +2665,7 @@
         {
           "node_type": "item",
           "title": "AI Job Resume：AI 算法岗简历模板。",
-          "description": "https://github.com/amusi/AI-Job-Resume",
+          "description": "amusi/AI-Job-Resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6015,7 +2692,7 @@
         {
           "node_type": "item",
           "title": "King of Pigeon：计算机保研简历与文书实用模板。",
-          "description": "https://github.com/yuezih/King-of-Pigeon",
+          "description": "yuezih/King-of-Pigeon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6036,7 +2713,7 @@
         {
           "node_type": "item",
           "title": "Deedy Resume：适合应届毕业生的 LaTeX 简历模板。",
-          "description": "https://github.com/dyweb/Deedy-Resume-for-Chinese",
+          "description": "dyweb/Deedy-Resume-for-Chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6060,7 +2737,7 @@
         {
           "node_type": "item",
           "title": "LapisCV：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职、求学场景。",
-          "description": "https://github.com/BingyanStudio/LapisCV",
+          "description": "BingyanStudio/LapisCV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6070,7 +2747,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-07-16T02:09:06Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "BingyanStudio",
             "repo": "LapisCV",
             "stars": 5080,
@@ -6080,48 +2757,6 @@
               "resume-template",
               "typora",
               "vscode-extension"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
             ]
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -6135,7 +2770,7 @@
         {
           "node_type": "item",
           "title": "计算机自学指南",
-          "description": null,
+          "description": "PKUFlyingPig/cs-self-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6148,7 +2783,7 @@
             "open_issues": 165,
             "owner": "PKUFlyingPig",
             "repo": "cs-self-learning",
-            "stars": 75978,
+            "stars": 75982,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -6156,7 +2791,7 @@
         {
           "node_type": "item",
           "title": "中国程序员容易发音错误的单词",
-          "description": null,
+          "description": "shimohq/chinese-programmer-wrong-pronunciation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6182,7 +2817,7 @@
         {
           "node_type": "item",
           "title": "免费的接口服务收集",
-          "description": null,
+          "description": "fangzesheng/free-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6206,7 +2841,7 @@
         {
           "node_type": "item",
           "title": "经典编程书籍大全",
-          "description": null,
+          "description": "jobbole/awesome-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6227,7 +2862,7 @@
         {
           "node_type": "item",
           "title": "架构师技术图谱，助你早日成为架构师",
-          "description": null,
+          "description": "toutiaoio/awesome-architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6250,7 +2885,7 @@
         {
           "node_type": "item",
           "title": "精选优质英语学习资源合集",
-          "description": null,
+          "description": "knowledgefxg/learning-english",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6263,7 +2898,7 @@
             "open_issues": 16,
             "owner": "knowledgefxg",
             "repo": "learning-english",
-            "stars": 4373,
+            "stars": 4374,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -6271,7 +2906,7 @@
         {
           "node_type": "item",
           "title": "免费的编程资源大全",
-          "description": null,
+          "description": "liyupi/free-programming-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6284,7 +2919,7 @@
             "open_issues": 7,
             "owner": "liyupi",
             "repo": "free-programming-resources",
-            "stars": 3742,
+            "stars": 3743,
             "topics": [
               "agents",
               "ai",
@@ -6309,7 +2944,7 @@
         {
           "node_type": "item",
           "title": "使用Typora+Docsify打造最强、最轻量级的个人&团队文档",
-          "description": null,
+          "description": "YSGStudyHards/Docsify-Guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6334,7 +2969,7 @@
         {
           "node_type": "item",
           "title": "免费的计算机编程类中文书籍",
-          "description": null,
+          "description": "YSGStudyHards/free-programming-books-zh_CN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6355,7 +2990,7 @@
         {
           "node_type": "item",
           "title": "中国独立开发者项目列表 -- 分享大家都在做什么",
-          "description": null,
+          "description": "YSGStudyHards/chinese-independent-developer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6376,7 +3011,7 @@
         {
           "node_type": "item",
           "title": "程序员技能图谱",
-          "description": null,
+          "description": "MyBigKnowledgeBase/skill-map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6397,7 +3032,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Design-Tools",
-          "description": null,
+          "description": "MyBigKnowledgeBase/Awesome-Design-Tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6414,55 +3049,13 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔝返回目录",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-            "homepage": "https://www.yuque.com/ysgstudyhard/da6e0c",
-            "id": 302375024,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-06-28T01:17:33Z",
-            "open_issues": 13,
-            "owner": "YSGStudyHards",
-            "repo": "DotNetGuide",
-            "stars": 11011,
-            "topics": [
-              "asp-net",
-              "aspnet-core",
-              "aspnetcore",
-              "avalonia",
-              "awasome",
-              "awesome-list",
-              "azure",
-              "blazor",
-              "chsarp",
-              "dotnet",
-              "git",
-              "github",
-              "guide",
-              "interview",
-              "maui",
-              "microsoft",
-              "practice",
-              "unity3d",
-              "winforms",
-              "wpf"
-            ]
-          },
-          "first_seen": "2026-08-29T00:04:00.840Z"
         }
       ],
       "title": "🧭宝藏指南"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:05:57.256Z",
+    "last_updated": "2026-10-03T04:30:56.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
@@ -6474,7 +3067,7 @@
       "open_issues": 13,
       "owner": "YSGStudyHards",
       "repo": "DotNetGuide",
-      "stars": 11011,
+      "stars": 11015,
       "topics": [
         "asp-net",
         "aspnet-core",
