@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19659,
+            "stars": 19662,
             "topics": [
               "asp-net-core",
               "aspnet-core",
@@ -46,11 +46,11 @@
             "id": 75990888,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-07T11:33:52Z",
-            "open_issues": 290,
+            "last_commit": "2026-10-08T19:47:46Z",
+            "open_issues": 291,
             "owner": "dotnet",
             "repo": "csharplang",
-            "stars": 12721,
+            "stars": 12720,
             "topics": [
               "csharp",
               "language-design"
@@ -78,11 +78,11 @@
                 "id": 644686905,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:52:02Z",
-                "open_issues": 834,
+                "last_commit": "2026-10-08T11:53:28Z",
+                "open_issues": 830,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36146,
+                "stars": 36159,
                 "topics": [
                   "agent",
                   "ai",
@@ -116,7 +116,7 @@
                 "open_issues": 0,
                 "owner": "phodal",
                 "repo": "github",
-                "stars": 11251,
+                "stars": 11253,
                 "topics": [
                   "book",
                   "books",
@@ -152,10 +152,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-28T12:56:18Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "awesome",
               "awesome-macos",
@@ -181,10 +181,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-28T12:56:18Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "YSGStudyHards",
             "repo": "Awesome-Tools",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "awesome",
               "awesome-macos",
@@ -218,10 +218,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-03-26T05:16:53Z",
-                "open_issues": 175,
+                "open_issues": 177,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21645,
+                "stars": 21647,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -246,10 +246,10 @@
                 "language": "C#",
                 "license": null,
                 "last_commit": "2026-02-27T03:26:22Z",
-                "open_issues": 222,
+                "open_issues": 223,
                 "owner": "thangchung",
                 "repo": "awesome-dotnet-core",
-                "stars": 21399,
+                "stars": 21401,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -277,7 +277,7 @@
                 "open_issues": 90,
                 "owner": "AdrienTorris",
                 "repo": "awesome-blazor",
-                "stars": 9378,
+                "stars": 9379,
                 "topics": [
                   "asp-net-core",
                   "aspnetcore",
@@ -408,7 +408,7 @@
                 "open_issues": 1,
                 "owner": "insthync",
                 "repo": "awesome-unity3d",
-                "stars": 2740,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
@@ -485,7 +485,7 @@
                 "open_issues": 3,
                 "owner": "aloisdeniel",
                 "repo": "awesome-monogame",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": [
                   "awesome",
                   "game",
@@ -624,7 +624,7 @@
             "open_issues": 0,
             "owner": "YSGStudyHards",
             "repo": "DotNetExercises",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -657,7 +657,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -688,7 +688,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -719,7 +719,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -750,7 +750,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -812,7 +812,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -843,7 +843,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -874,7 +874,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -905,7 +905,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -936,7 +936,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -967,7 +967,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -998,7 +998,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -1060,7 +1060,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -1091,7 +1091,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -1122,7 +1122,7 @@
                 "open_issues": 0,
                 "owner": "YSGStudyHards",
                 "repo": "DotNetExercises",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "asp-net",
                   "asp-net-core",
@@ -1284,7 +1284,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-01-08T15:09:11Z",
-                "open_issues": 74,
+                "open_issues": 73,
                 "owner": "FrontEndGitHub",
                 "repo": "FrontEndGitHub",
                 "stars": 6596,
@@ -1344,11 +1344,11 @@
                 "id": 644686905,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T10:52:02Z",
-                "open_issues": 834,
+                "last_commit": "2026-10-08T11:53:28Z",
+                "open_issues": 830,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36146,
+                "stars": 36159,
                 "topics": [
                   "agent",
                   "ai",
@@ -1416,7 +1416,7 @@
                 "open_issues": 48,
                 "owner": "me115",
                 "repo": "design_patterns",
-                "stars": 7121,
+                "stars": 7122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1499,7 +1499,7 @@
                 "open_issues": 20,
                 "owner": "liyupi",
                 "repo": "sql-mother",
-                "stars": 4426,
+                "stars": 4430,
                 "topics": [
                   "css",
                   "database",
@@ -1538,7 +1538,7 @@
                 "open_issues": 112,
                 "owner": "xiaolincoder",
                 "repo": "CS-Base",
-                "stars": 18450,
+                "stars": 18459,
                 "topics": [
                   "c",
                   "cpp",
@@ -1565,10 +1565,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-06T22:54:54Z",
-                "open_issues": 102,
+                "open_issues": 101,
                 "owner": "mysql",
                 "repo": "mysql-server",
-                "stars": 12442,
+                "stars": 12447,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1612,11 +1612,11 @@
                 "id": 32276625,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T13:01:06Z",
+                "last_commit": "2026-10-08T06:38:25Z",
                 "open_issues": 21,
                 "owner": "shlomi-noach",
                 "repo": "awesome-mysql",
-                "stars": 2614,
+                "stars": 2613,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1712,7 +1712,7 @@
                 "open_issues": 26,
                 "owner": "huangzworks",
                 "repo": "redis-3.0-annotated",
-                "stars": 10137,
+                "stars": 10135,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1783,10 +1783,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 624,
+            "open_issues": 622,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 373515,
+            "stars": 373434,
             "topics": [
               "design",
               "design-patterns",
@@ -1821,7 +1821,7 @@
             "open_issues": 69,
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 90274,
+            "stars": 90302,
             "topics": [
               "aws",
               "cloud-computing",
@@ -1853,7 +1853,7 @@
             "open_issues": 7,
             "owner": "qiurunze123",
             "repo": "miaosha",
-            "stars": 26590,
+            "stars": 26588,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -1874,7 +1874,7 @@
             "open_issues": 2,
             "owner": "DocsHome",
             "repo": "microservices",
-            "stars": 5164,
+            "stars": 5163,
             "topics": [
               "api-gateway",
               "book",
@@ -1934,7 +1934,7 @@
             "open_issues": 197,
             "owner": "CyC2018",
             "repo": "CS-Notes",
-            "stars": 186396,
+            "stars": 186182,
             "topics": [
               "algorithm",
               "computer-science",
@@ -2020,7 +2020,7 @@
                 "open_issues": 3,
                 "owner": "feiskyer",
                 "repo": "kubernetes-handbook",
-                "stars": 5525,
+                "stars": 5524,
                 "topics": [
                   "books",
                   "cloud-native",
@@ -2104,7 +2104,7 @@
                 "open_issues": 67,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176040,
+                "stars": 175854,
                 "topics": [
                   "git",
                   "gitignore"
@@ -2128,7 +2128,7 @@
                 "open_issues": 0,
                 "owner": "521xueweihan",
                 "repo": "git-tips",
-                "stars": 15861,
+                "stars": 15862,
                 "topics": [
                   "cheatsheet",
                   "git",
@@ -2237,7 +2237,7 @@
             "open_issues": 54,
             "owner": "mdnice",
             "repo": "markdown-resume",
-            "stars": 1976,
+            "stars": 1975,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2258,7 +2258,7 @@
             "open_issues": 40,
             "owner": "visiky",
             "repo": "resume",
-            "stars": 3202,
+            "stars": 3203,
             "topics": [
               "gatsby",
               "resume",
@@ -2312,7 +2312,7 @@
             "open_issues": 11,
             "owner": "JOYCEQL",
             "repo": "magic-resume",
-            "stars": 10960,
+            "stars": 10974,
             "topics": [
               "ai",
               "deepseek",
@@ -2368,10 +2368,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2024-10-29T07:41:51Z",
-            "open_issues": 143,
+            "open_issues": 144,
             "owner": "xitanggg",
             "repo": "open-resume",
-            "stars": 8917,
+            "stars": 8920,
             "topics": [
               "nextjs",
               "react",
@@ -2401,7 +2401,7 @@
             "open_issues": 5,
             "owner": "Hacker233",
             "repo": "resume-design",
-            "stars": 4035,
+            "stars": 4036,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2482,7 +2482,7 @@
             "open_issues": 11,
             "owner": "geekcompany",
             "repo": "ResumeSample",
-            "stars": 28331,
+            "stars": 28332,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2503,7 +2503,7 @@
             "open_issues": 5,
             "owner": "resumejob",
             "repo": "awesome-resume",
-            "stars": 7447,
+            "stars": 7448,
             "topics": [
               "resume",
               "resume-template",
@@ -2570,7 +2570,7 @@
             "open_issues": 4,
             "owner": "dyweb",
             "repo": "awesome-resume-for-chinese",
-            "stars": 8535,
+            "stars": 8538,
             "topics": [
               "engineer",
               "html",
@@ -2641,7 +2641,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3344,
+            "stars": 3345,
             "topics": [
               "application",
               "carreer",
@@ -2678,7 +2678,7 @@
             "open_issues": 0,
             "owner": "amusi",
             "repo": "AI-Job-Resume",
-            "stars": 721,
+            "stars": 722,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2705,7 +2705,7 @@
             "open_issues": 3,
             "owner": "yuezih",
             "repo": "King-of-Pigeon",
-            "stars": 2290,
+            "stars": 2292,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2783,7 +2783,7 @@
             "open_issues": 165,
             "owner": "PKUFlyingPig",
             "repo": "cs-self-learning",
-            "stars": 76051,
+            "stars": 76075,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2801,10 +2801,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-11T02:52:29Z",
-            "open_issues": 139,
+            "open_issues": 140,
             "owner": "shimohq",
             "repo": "chinese-programmer-wrong-pronunciation",
-            "stars": 23318,
+            "stars": 23321,
             "topics": [
               "chinese-programmers",
               "documentation",
@@ -2854,7 +2854,7 @@
             "open_issues": 40,
             "owner": "jobbole",
             "repo": "awesome-programming-books",
-            "stars": 15553,
+            "stars": 15554,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2875,7 +2875,7 @@
             "open_issues": 10,
             "owner": "toutiaoio",
             "repo": "awesome-architecture",
-            "stars": 9679,
+            "stars": 9677,
             "topics": [
               "architecture"
             ]
@@ -2898,7 +2898,7 @@
             "open_issues": 16,
             "owner": "knowledgefxg",
             "repo": "learning-english",
-            "stars": 4516,
+            "stars": 4556,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:00.840Z"
@@ -2919,7 +2919,7 @@
             "open_issues": 7,
             "owner": "liyupi",
             "repo": "free-programming-resources",
-            "stars": 3753,
+            "stars": 3754,
             "topics": [
               "agents",
               "ai",
@@ -3055,7 +3055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:44:15.822Z",
+    "last_updated": "2026-10-08T20:46:20.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
@@ -3067,7 +3067,7 @@
       "open_issues": 13,
       "owner": "YSGStudyHards",
       "repo": "DotNetGuide",
-      "stars": 11041,
+      "stars": 11047,
       "topics": [
         "asp-net",
         "aspnet-core",
