@@ -71,8 +71,8 @@
 
 ## 🏷️优质学习资料收录栈
 
-* [🎯2025年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master) ⭐ 19,662 | 🐛 3 | 📅 2026-01-29
-* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang) ⭐ 12,718 | 🐛 293 | 🌐 C# | 📅 2026-10-09
+* [🎯2025年ASP.NET Core开发者学习指南](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/tree/master) ⭐ 19,664 | 🐛 3 | 📅 2026-01-29
+* [🧀C#编程语言设计的官方存储库（C#功能讨论&提案&语言规范）](https://github.com/dotnet/csharplang) ⭐ 12,719 | 🐛 294 | 🌐 C# | 📅 2026-10-09
 * [📝.NET的发展简史](https://www.yuque.com/ysgstudyhard/da6e0c/zvfr2h5wen2l6kz2)
 * [🎃.NET常见术语表](https://www.yuque.com/ysgstudyhard/da6e0c/kyzpda9fsyu0yvcy)
 * [🌟.NET中的新增功能](https://www.yuque.com/ysgstudyhard/da6e0c/hbm1b9h05g5z7qe6)
@@ -103,7 +103,7 @@
 
 ### AI实用编程工具
 
-* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,159 | 🐛 834 | 🌐 TypeScript | 📅 2026-10-09
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,170 | 🐛 831 | 🌐 TypeScript | 📅 2026-10-09
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
@@ -178,7 +178,7 @@
 
 ### GitHub使用指南
 
-* [GitHub漫游指南](https://github.com/phodal/github) ⭐ 11,254 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24
+* [GitHub漫游指南](https://github.com/phodal/github) ⭐ 11,253 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24
 * [C# GitHub趋势榜](https://github.com/trending/c%23?since=daily)
 * [GitHub官方使用文档](https://docs.github.com/zh)
 * [GitHub Issues 快速入门](https://docs.github.com/zh/issues/tracking-your-work-with-issues/quickstart)
@@ -208,8 +208,8 @@
 
 在当今这个技术日新月异的时代，开发者只有持续学习，才能紧跟时代的浪潮。为了助力开发者在高效学习与工作中实现平衡（告别996的束缚），众多卓越且实用的开发工具应运而生，它们如同强大的助力器，极大地提升了我们的工作效率与创造力。Awesome Tools，程序员常用高效实用工具、软件资源精选，办公效率提升利器。
 
-* **欢迎PR或Issues投稿：** <https://github.com/YSGStudyHards/Awesome-Tools/issues> ⭐ 1,193 | 🐛 23 | 📅 2026-10-09
-* **Awesome Tools，程序员常用高效实用工具、软件资源精选：** <https://github.com/YSGStudyHards/Awesome-Tools> ⭐ 1,193 | 🐛 23 | 📅 2026-10-09
+* **欢迎PR或Issues投稿：** <https://github.com/YSGStudyHards/Awesome-Tools/issues> ⭐ 1,194 | 🐛 26 | 📅 2026-10-09
+* **Awesome Tools，程序员常用高效实用工具、软件资源精选：** <https://github.com/YSGStudyHards/Awesome-Tools> ⭐ 1,194 | 🐛 26 | 📅 2026-10-09
 * **实用效率工具公众号详细介绍专栏：** [前往订阅👉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==\&action=getalbum\&album_id=2983928075727978497\&scene=126\&sessionid=-1550706823#wechat_redirect)
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
@@ -239,20 +239,20 @@
 
 ### Awesome Collection
 
-* [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,649 | 🐛 178 | 📅 2026-03-26
-* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,403 | 🐛 223 | 🌐 C# | 📅 2026-02-27
+* [Awesome .NET](https://github.com/quozd/awesome-dotnet) ⭐ 21,650 | 🐛 180 | 📅 2026-03-26
+* [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,405 | 🐛 223 | 🌐 C# | 📅 2026-02-27
 * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,380 | 🐛 90 | 📅 2026-10-01
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) ⭐ 3,290 | 🐛 7 | 📅 2026-04-27
 * [Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) ⭐ 3,244 | 🐛 55 | 📅 2026-04-24
-* [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) ⭐ 3,082 | 🐛 7 | 📅 2024-10-31
-* [Awesome Unity3D](https://github.com/insthync/awesome-unity3d) ⭐ 2,740 | 🐛 1 | 📅 2026-10-06
+* [Awesome Microservices .NET](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) ⭐ 3,083 | 🐛 7 | 📅 2024-10-31
+* [Awesome Unity3D](https://github.com/insthync/awesome-unity3d) ⭐ 2,741 | 🐛 1 | 📅 2026-10-06
 * [Awesome .NET MAUI](https://github.com/jsuarezruiz/awesome-dotnet-maui) ⭐ 2,666 | 🐛 11 | 📅 2025-10-20
-* [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf) ⭐ 2,171 | 🐛 1 | 🌐 C# | 📅 2026-08-02
+* [Awesome .NET WPF](https://github.com/Carlos487/awesome-wpf) ⭐ 2,171 | 🐛 1 | 🌐 C# | 📅 2026-10-10
 * [Awesome MonoGame](https://github.com/aloisdeniel/awesome-monogame) ⭐ 1,456 | 🐛 3 | 📅 2025-08-18
 * [Awesome Abp](https://github.com/EasyAbp/awesome-abp) ⭐ 459 | 🐛 0 | 📅 2026-02-19
 * [Awesome Nuget Packages](https://github.com/mjebrahimi/Awesome-Nuget-Packages) ⭐ 324 | 🐛 1 | 📅 2025-01-26
-* [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial) ⭐ 276 | 🐛 0 | 🌐 C# | 📅 2025-09-25
-* [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms) ⭐ 159 | 🐛 0 | 📅 2026-06-09
+* [Awesome Unity Tutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial) ⭐ 277 | 🐛 0 | 🌐 C# | 📅 2025-09-25
+* [Awesome .NET WinForms](https://github.com/tbolon/awesome-dotnet-winforms) ⭐ 158 | 🐛 0 | 📅 2026-06-09
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
@@ -547,7 +547,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Web前端面试宝典和常见面试题
 
-* [前端3+1面试题库](https://github.com/haizlin/fe-interview) ⭐ 26,263 | 🐛 6,259 | 🌐 JavaScript | 📅 2025-10-26
+* [前端3+1面试题库](https://github.com/haizlin/fe-interview) ⭐ 26,264 | 🐛 6,259 | 🌐 JavaScript | 📅 2025-10-26
 * [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview) ⭐ 2,839 | 🐛 4 | 🌐 JavaScript | 📅 2023-09-18
 * [TCP/IP协议详解](https://zhuanlan.zhihu.com/p/33889997)
 * [大前端面试宝典](https://lucifer.ren/fe-interview/#/?id=大前端面试宝典-图解前端)
@@ -563,7 +563,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Web前端优质资源和文章汇总
 
-* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub) ⭐ 6,597 | 🐛 73 | 📅 2025-01-08
+* [GitHub最全的前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub) ⭐ 6,598 | 🐛 73 | 📅 2025-01-08
 * [一个优秀的前端都应该阅读这些文章](https://github.com/Nealyang/PersonalBlog/issues/48) ⭐ 1,112 | 🐛 104 | 🌐 JavaScript | 📅 2024-05-07
 * [适合后端程序员的前端框架](https://github.com/YSGStudyHards/DotNetGuide/issues/12)
 * [开源实用的大屏数据展示模板](https://mp.weixin.qq.com/s/Aky1uQe3FnSlEy3YwjEWTw)
@@ -576,7 +576,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### AI实用编程工具
 
-* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,159 | 🐛 834 | 🌐 TypeScript | 📅 2026-10-09
+* [领先的开源AI代码助手：Continue](https://github.com/continuedev/continue) ⭐ 36,170 | 🐛 831 | 🌐 TypeScript | 📅 2026-10-09
 * [AI编程助手：CodeGeeX ](https://codegeex.cn/zh-CN)
 * [AI智能助手：代码小浣熊](https://raccoon.sensetime.com/code)
 * [智能编码助手：通义灵码](https://tongyi.aliyun.com/lingma)
@@ -610,7 +610,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### AI提示词大全
 
-* [2025年最好的AI提示词合集：ChatGPT、Claude、Gemini 提示词大全](https://github.com/holmquistc407/ai-tishici) ⭐ 940 | 🐛 0 | 📅 2025-04-17
+* [2025年最好的AI提示词合集：ChatGPT、Claude、Gemini 提示词大全](https://github.com/holmquistc407/ai-tishici) ⭐ 939 | 🐛 0 | 📅 2025-04-17
 * [LangGPT 结构化提示词知识库](https://langgptai.feishu.cn/wiki/RXdbwRyASiShtDky381ciwFEnpe)
 * [DeepSeek 官方推出的提示词库，AI内容生成的精准导航仪！](https://mp.weixin.qq.com/s/zeY5qztR2tbgqwvwK6TWMQ)
 * [Prompt Optimizer：一款开源免费、功能强大的 AI 提示词优化神器](https://mp.weixin.qq.com/s/_98HOWPaFvHXb8dU8EtTVw)
@@ -714,7 +714,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### SQL和数据库相关
 
-* [闯关式SQL自学网](https://github.com/liyupi/sql-mother) ⭐ 4,430 | 🐛 20 | 🌐 TypeScript | 📅 2025-07-01
+* [闯关式SQL自学网](https://github.com/liyupi/sql-mother) ⭐ 4,434 | 🐛 20 | 🌐 TypeScript | 📅 2025-07-01
 * [自学SQL网](http://xuesql.cn/)
 * [SQL语法基础](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/SQL%20%E8%AF%AD%E6%B3%95.html#%E4%B8%80%E3%80%81%E5%9F%BA%E7%A1%80)
 * [数据库系统原理](http://www.cyc2018.xyz/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86.html#%E4%B8%80%E3%80%81%E4%BA%8B%E5%8A%A1)
@@ -732,9 +732,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### MySQL
 
-* [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql) ⭐ 18,460 | 🐛 112 | 📅 2024-11-27
-* [MySQL源代码](https://github.com/mysql/mysql-server) ⭐ 12,450 | 🐛 106 | 🌐 C++ | 📅 2026-10-06
-* [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial) ⭐ 4,788 | 🐛 8 | 📅 2026-04-23
+* [MySQL图解教程](https://github.com/xiaolincoder/CS-Base?tab=readme-ov-file#open_book%E5%9B%BE%E8%A7%A3-mysql) ⭐ 18,466 | 🐛 112 | 📅 2024-11-27
+* [MySQL源代码](https://github.com/mysql/mysql-server) ⭐ 12,452 | 🐛 107 | 🌐 C++ | 📅 2026-10-06
+* [MySQL入门教程（MySQL tutorial book）](https://github.com/jaywcjlove/mysql-tutorial) ⭐ 4,789 | 🐛 8 | 📅 2026-04-23
 * [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,613 | 🐛 22 | 🌐 Python | 📅 2026-10-08
 * [MySQL教程](https://www.runoob.com/mysql/mysql-tutorial.html)
 * [MySQL入门教程](https://www.w3cschool.cn/mysql/mysql-tutorial.html)
@@ -778,7 +778,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### SQLite
 
-* [.NET操作SQLite实战教程](https://github.com/YSGStudyHards/EasySQLite) ⭐ 133 | 🐛 1 | 🌐 C# | 📅 2025-10-20
+* [.NET操作SQLite实战教程](https://github.com/YSGStudyHards/EasySQLite) ⭐ 132 | 🐛 1 | 🌐 C# | 📅 2025-10-20
 * [SQLite简介](https://mp.weixin.qq.com/s/wCKjqDv2hpvsu-01meSMNA)
 * [SQLite官网](https://www.sqlite.org/index.html)
 * [SQLite教程](https://www.runoob.com/sqlite/sqlite-intro.html)
@@ -797,7 +797,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Redis
 
-* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated) ⭐ 10,132 | 🐛 26 | 🌐 C | 📅 2023-08-26
+* [带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated) ⭐ 10,131 | 🐛 26 | 🌐 C | 📅 2023-08-26
 * [带有详细注释的 Redis 2.6 代码](https://github.com/huangz1990/annotated_redis_source) ⭐ 2,315 | 🐛 7 | 🌐 C | 📅 2020-01-01
 * [Redis图解](https://github.com/MyBigKnowledgeBase/CS-Base#open_book-%E5%9B%BE%E8%A7%A3redis) ⭐ 2 | 🐛 0 | 📅 2023-07-26
 * [Redis中文文档](https://www.redis.com.cn/documentation.html)
@@ -831,9 +831,9 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 💡系统设计
 
-* [系统设计入门](https://github.com/donnemartin/system-design-primer) ⭐ 373,554 | 🐛 622 | 🌐 Python | 📅 2026-09-15
-* [一个值得推荐的图解系统设计学习知识库](https://github.com/ByteByteGoHq/system-design-101) ⭐ 90,324 | 🐛 69 | 📅 2025-04-04
-* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha) ⭐ 26,587 | 🐛 7 | 🌐 Java | 📅 2025-04-18
+* [系统设计入门](https://github.com/donnemartin/system-design-primer) ⭐ 373,667 | 🐛 621 | 🌐 Python | 📅 2026-09-15
+* [一个值得推荐的图解系统设计学习知识库](https://github.com/ByteByteGoHq/system-design-101) ⭐ 90,365 | 🐛 69 | 📅 2025-04-04
+* [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha) ⭐ 26,589 | 🐛 7 | 🌐 Java | 📅 2025-04-18
 * [微服务：从设计到部署](https://github.com/DocsHome/microservices) ⭐ 5,162 | 🐛 2 | 📅 2019-07-18
 * [系统与架构设计](https://github.com/zaiyunduan123/Java-Summarize/blob/master/notes/scene/Scene-Design.md) ⭐ 1,388 | 🐛 3 | 🌐 Java | 📅 2020-06-20
 * [浅谈6种流行的API架构风格](https://mp.weixin.qq.com/s/HXi2SBQcjjAk-WExmiXyCA)
@@ -842,7 +842,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ## 💻操作系统
 
-* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md) ⭐ 186,187 | 🐛 197 | 📅 2024-08-21
+* [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E7%9B%AE%E5%BD%95.md) ⭐ 186,195 | 🐛 197 | 📅 2024-08-21
 * [图解计算机操作系统](https://github.com/MyBigKnowledgeBase/CS-Base#open_book%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F) ⭐ 2 | 🐛 0 | 📅 2023-07-26
 * [Linux](https://github.com/YSGStudyHards/DotNetGuide/blob/main/docs/Linux/Linux.md)
 * [王道计算机考研操作系统视频教程](https://www.bilibili.com/video/BV1YE411D7nH?from=search\&seid=13464543417132613798\&spm_id_from=333.337.0.0)
@@ -878,7 +878,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 > Docker是一个开源的应用容器引擎，基于Golang 语言开发，可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任何流行的 Linux 服务器。容器是一个沙箱机制，相互之间不会有影响（类似于我们手机上运行的 app），并且容器开销是很低的。Docker 是一个供开发人员和系统管理员构建、运行和与容器共享应用程序的平台。使用容器部署应用程序称为容器化。容器并不是新事物，但它们用于轻松部署应用程序却是新鲜的。
 
-* [Docker初级、中级、高级实战教程和指南](https://github.com/collabnix/dockerlabs) ⭐ 8,043 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-25
+* [Docker初级、中级、高级实战教程和指南](https://github.com/collabnix/dockerlabs) ⭐ 8,042 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-25
 * [什么是Docker？](https://zhuanlan.zhihu.com/p/187505981)
 * [.NET应用容器化](https://learn.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows\&pivots=dotnet-8-0)
 * [Docker中文社区](https://www.docker.org.cn/)
@@ -944,7 +944,7 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ### Git
 
-* [gitignore templates](https://github.com/github/gitignore) ⭐ 175,860 | 🐛 66 | 📅 2026-10-02
+* [gitignore templates](https://github.com/github/gitignore) ⭐ 175,872 | 🐛 67 | 📅 2026-10-02
 * [Git的奇技淫巧](https://github.com/521xueweihan/git-tips) ⭐ 15,864 | 🐛 0 | 📅 2022-12-08
 * [Git大全](https://gitee.com/all-about-git)
 * [Git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
@@ -1004,38 +1004,38 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **mdnice resume**：在线简历排版工具，支持切换 4 种模版、自定义和导出功能（支持Markdown和富文本的在线简历排版工具）。                                                                  | <https://github.com/mdnice/markdown-resume> ⭐ 1,975 \| 🐛 54 \| 🌐 JavaScript \| 📅 2023-07-13  |
 | **冷熊简历**：是一款在线 MarkDown 简历书写工具，支持基本的 markdown 语法。                                                                                         | <http://cv.ftqq.com/?fr=github>                                                                 |
-| **Resume Generator**：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。                                                                                         | <https://github.com/visiky/resume> ⭐ 3,204 \| 🐛 40 \| 🌐 TypeScript \| 📅 2023-08-30           |
-| **best resume ever**：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。                                                                                        | <https://github.com/salomonelli/best-resume-ever> ⭐ 16,485 \| 🐛 57 \| 🌐 Vue \| 📅 2024-06-11  |
-| **Magic Resume**：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。                                           | <https://github.com/JOYCEQL/magic-resume> ⭐ 10,986 \| 🐛 10 \| 🌐 TypeScript \| 📅 2026-10-07   |
+| **Resume Generator**：在线简历生成器，支持在线预览、编辑和下载 PDF 简历。                                                                                         | <https://github.com/visiky/resume> ⭐ 3,205 \| 🐛 40 \| 🌐 TypeScript \| 📅 2023-08-30           |
+| **best resume ever**：快速、简单的制作多种漂亮的简历，打造你有史以来最好的简历。                                                                                        | <https://github.com/salomonelli/best-resume-ever> ⭐ 16,487 \| 🐛 57 \| 🌐 Vue \| 📅 2024-06-11  |
+| **Magic Resume**：Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 Next.js 和 Motion 构建，支持实时预览和自定义主题。                                           | <https://github.com/JOYCEQL/magic-resume> ⭐ 11,009 \| 🐛 10 \| 🌐 TypeScript \| 📅 2026-10-07   |
 | **codecv**：一款使用 markdown 制作简历的工具，它可以将你编写的markdown 简历转换为 PDF，支持多种模板，完全免费。                                                                  | <https://github.com/acmenlei/codecv> ⭐ 981 \| 🐛 9 \| 🌐 TypeScript \| 📅 2024-03-12            |
-| **OpenResume**：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。                                                   | <https://github.com/xitanggg/open-resume> ⭐ 8,920 \| 🐛 145 \| 🌐 TypeScript \| 📅 2024-10-29   |
-| **猫步简历**：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。           | <https://github.com/Hacker233/resume-design> ⭐ 4,041 \| 🐛 5 \| 🌐 Vue \| 📅 2026-04-20         |
-| **Dnd Resume**：是一个免费且开源的简历生成工具，帮助您轻松创建专业的简历。                                                                                              | <https://github.com/Arman19941113/dnd-resume> ⭐ 1,413 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-31 |
-| **ResumeToJob**：是一个免费开源的在线简历制作工具，帮助求职者快速创建专业、美观的简历。支持多种模板选择、实时编辑、PDF 导出等功能，同时保护您的隐私数据安全。                                                  | <https://github.com/ltlylfun/ResumeToJob> ⭐ 446 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-01-12       |
-| **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | <https://github.com/geekcompany/ResumeSample> ⭐ 28,337 \| 🐛 11 \| 📅 2024-08-14                |
-| **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。                                                                                                  | <https://github.com/resumejob/awesome-resume> ⭐ 7,448 \| 🐛 5 \| 📅 2025-09-23                  |
+| **OpenResume**：是一个强大的开源简历构建器和简历解析器，OpenResume 的目标是为每个人提供免费访问现代专业简历设计的机会，并使任何人都能自信地申请工作。                                                   | <https://github.com/xitanggg/open-resume> ⭐ 8,923 \| 🐛 145 \| 🌐 TypeScript \| 📅 2024-10-29   |
+| **猫步简历**：是一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。           | <https://github.com/Hacker233/resume-design> ⭐ 4,044 \| 🐛 5 \| 🌐 Vue \| 📅 2026-04-20         |
+| **Dnd Resume**：是一个免费且开源的简历生成工具，帮助您轻松创建专业的简历。                                                                                              | <https://github.com/Arman19941113/dnd-resume> ⭐ 1,415 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-08-31 |
+| **ResumeToJob**：是一个免费开源的在线简历制作工具，帮助求职者快速创建专业、美观的简历。支持多种模板选择、实时编辑、PDF 导出等功能，同时保护您的隐私数据安全。                                                  | <https://github.com/ltlylfun/ResumeToJob> ⭐ 447 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-01-12       |
+| **ResumeSample**：程序员简历模板系列，包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板。 | <https://github.com/geekcompany/ResumeSample> ⭐ 28,339 \| 🐛 11 \| 📅 2024-08-14                |
+| **Awesome Resume**：程序员简历例句，程序员简历范例，简历模版。                                                                                                  | <https://github.com/resumejob/awesome-resume> ⭐ 7,449 \| 🐛 5 \| 📅 2025-09-23                  |
 | **DeerResume**：好用的MarkDown在线简历工具，可在线预览、编辑、设置访问密码和生成PDF。                                                                                   | <https://github.com/geekcompany/DeerResume> ⭐ 3,456 \| 🐛 18 \| 🌐 JavaScript \| 📅 2018-05-07  |
-| **Markdown Resume**：用 markdown 语法来写的简历模版，非常简洁通用。                                                                                          | <https://github.com/CyC2018/Markdown-Resume> ⭐ 3,452 \| 🐛 10 \| 🌐 HTML \| 📅 2019-10-30       |
-| **Awesome Resume for Chinese**：汇总收集中文的简历模板。                                                                                               | <https://github.com/dyweb/awesome-resume-for-chinese> ⭐ 8,549 \| 🐛 4 \| 📅 2026-07-22          |
+| **Markdown Resume**：用 markdown 语法来写的简历模版，非常简洁通用。                                                                                          | <https://github.com/CyC2018/Markdown-Resume> ⭐ 3,453 \| 🐛 10 \| 🌐 HTML \| 📅 2019-10-30       |
+| **Awesome Resume for Chinese**：汇总收集中文的简历模板。                                                                                               | <https://github.com/dyweb/awesome-resume-for-chinese> ⭐ 8,561 \| 🐛 5 \| 📅 2026-07-22          |
 | **Markdown Resume Template**：BAT程序员自己的简历模板分享出来了。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。                                         | <https://github.com/youngyangyang04/Markdown-Resume-Template> ⭐ 1,047 \| 🐛 0 \| 📅 2026-09-08  |
-| **Resume template for Coder**：适合程序员的简历模板。                                                                                                 | <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 532 \| 🐛 0 \| 📅 2022-02-22           |
-| **latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。                                                                           | <https://github.com/jankapunkt/latexcv> ⭐ 3,346 \| 🐛 4 \| 🌐 TeX \| 📅 2026-10-07              |
+| **Resume template for Coder**：适合程序员的简历模板。                                                                                                 | <https://github.com/byoungd/Resume-template-for-Coder> ⭐ 533 \| 🐛 0 \| 📅 2022-02-22           |
+| **latexcv**：一套简单易用、功能强大的 LaTeX 简历模板集合，所有模板均为自行设计和实现，未复制自其他模板集合。                                                                           | <https://github.com/jankapunkt/latexcv> ⭐ 3,348 \| 🐛 4 \| 🌐 TeX \| 📅 2026-10-07              |
 | **AI Job Resume**：AI 算法岗简历模板。                                                                                                             | <https://github.com/amusi/AI-Job-Resume> ⭐ 722 \| 🐛 0 \| 📅 2019-08-19                         |
-| **King of Pigeon**：计算机保研简历与文书实用模板。                                                                                                        | <https://github.com/yuezih/King-of-Pigeon> ⭐ 2,291 \| 🐛 3 \| 📅 2024-06-04                     |
+| **King of Pigeon**：计算机保研简历与文书实用模板。                                                                                                        | <https://github.com/yuezih/King-of-Pigeon> ⭐ 2,293 \| 🐛 3 \| 📅 2024-06-04                     |
 | **Deedy Resume**：适合应届毕业生的 LaTeX 简历模板。                                                                                                     | <https://github.com/dyweb/Deedy-Resume-for-Chinese> ⭐ 569 \| 🐛 2 \| 🌐 TeX \| 📅 2017-10-07    |
-| **LapisCV**：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职、求学场景。                                                                               | <https://github.com/BingyanStudio/LapisCV> ⭐ 5,089 \| 🐛 12 \| 🌐 CSS \| 📅 2026-07-16          |
+| **LapisCV**：基于 Markdown 格式，易于编辑，所见即所得。风格简洁正式，适用于大部分求职、求学场景。                                                                               | <https://github.com/BingyanStudio/LapisCV> ⭐ 5,090 \| 🐛 12 \| 🌐 CSS \| 📅 2026-07-16          |
 
 [🔝返回目录](https://github.com/YSGStudyHards/DotNetGuide#%E7%9B%AE%E5%BD%95%E5%AF%BC%E8%88%AA%E5%96%84%E7%94%A8ctrlf)
 
 ## 🧭宝藏指南
 
-* [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 76,096 | 🐛 165 | 🌐 HTML | 📅 2026-09-17
-* [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,323 | 🐛 140 | 🌐 JavaScript | 📅 2026-09-11
-* [免费的接口服务收集](https://github.com/fangzesheng/free-api) ⭐ 16,270 | 🐛 51 | 📅 2026-07-25
-* [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books) ⭐ 15,555 | 🐛 40 | 📅 2021-08-26
+* [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) ⭐ 76,122 | 🐛 165 | 🌐 HTML | 📅 2026-09-17
+* [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,322 | 🐛 140 | 🌐 JavaScript | 📅 2026-09-11
+* [免费的接口服务收集](https://github.com/fangzesheng/free-api) ⭐ 16,271 | 🐛 51 | 📅 2026-07-25
+* [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books) ⭐ 15,558 | 🐛 40 | 📅 2021-08-26
 * [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture) ⭐ 9,678 | 🐛 10 | 📅 2021-01-06
-* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english) ⭐ 4,570 | 🐛 16 | 📅 2026-10-07
-* [免费的编程资源大全](https://github.com/liyupi/free-programming-resources) ⭐ 3,755 | 🐛 7 | 🌐 HTML | 📅 2026-03-23
+* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english) ⭐ 4,586 | 🐛 17 | 📅 2026-10-07
+* [免费的编程资源大全](https://github.com/liyupi/free-programming-resources) ⭐ 3,757 | 🐛 7 | 🌐 HTML | 📅 2026-03-23
 * [使用Typora+Docsify打造最强、最轻量级的个人&团队文档](https://github.com/YSGStudyHards/Docsify-Guide) ⭐ 106 | 🐛 1 | 🌐 HTML | 📅 2023-10-22
 * [免费的计算机编程类中文书籍](https://github.com/YSGStudyHards/free-programming-books-zh_CN) ⭐ 23 | 🐛 0 | 📅 2020-11-27
 * [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/YSGStudyHards/chinese-independent-developer) ⭐ 21 | 🐛 0 | 📅 2023-09-17
@@ -1075,4 +1075,4 @@ C#/.NET/.NET Core编程常用语法、算法、技巧、中间件、类库、工
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
